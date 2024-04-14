@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">REDUCING BEHAVIOR PROBLEMS THROUGH FUNCTIONAL COMMUNICATION TRAINING</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Edward</forename><forename type="middle">G</forename><surname>Carr</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">AND SUFFOLK CHILD DEVELOPMENT CENTER</orgName>
+								<orgName type="institution" key="instit1">STATE UNIVERSITY OF NEW YORK AT STONY BROOK</orgName>
+								<orgName type="institution" key="instit2">STATE UNIVERSITY OF NEW YORK AT ALBANY</orgName>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">State University</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">V</forename><forename type="middle">Mark</forename><surname>Durand</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">AND SUFFOLK CHILD DEVELOPMENT CENTER</orgName>
+								<orgName type="institution" key="instit1">STATE UNIVERSITY OF NEW YORK AT STONY BROOK</orgName>
+								<orgName type="institution" key="instit2">STATE UNIVERSITY OF NEW YORK AT ALBANY</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">REDUCING BEHAVIOR PROBLEMS THROUGH FUNCTIONAL COMMUNICATION TRAINING</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A4E55AC2BD0D5CBE589F2E8F3F465F89</idno>
+					<idno type="DOI">10.1901/jaba.1985.18-111</idno>
+					<note type="submission">111 1985, 189 111-126 NumBER 2 (summER 1985</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2024-04-14T19:41+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>It is generally agreed that serious misbehavior in children should be replaced with socially appro- priate behaviors, but few guidelines exist with respect to choosing replacement behaviors. We address this issue in two experiments. In Experiment 1, we developed an assessment method for identifying situations in which behavior problems, induding aggression, tantrums, and self-injury, were most likely to occur. Results demonstrated that both low level of adult attention and high level of task difficulty were discriminative for misbehavior. In Experiment 2, the assessment data were used to select replacements for misbehavior. Specifically, children were taught to solicit atten- tion or assistance or both verbally from adults. This treatment, which involved the differential reinforcement of functional communication, produced replicable suppression of behavior problems across four developmentally disabled children. The results were consistent with an hypothesis stating that some child behavior problems may be viewed as a nonverbal means of communication. According to this hypothesis, behavior problems and verbal communicative acts, though differing in form, may be equivalent in function. Therefore, strengthening the latter should weaken the former.</p><p>DESCRIPTORS: disruptive behavior, assessment, classroom behavior, communication, devel- opmentally disabled children A major portion of child behavior therapy is justifiably concerned with the treatment of behav- ior problems, given that such problems can seriously disrupt the educational process (O'Leary &amp; O'Leary, 1977; Sulzer-Azaroff &amp; Mayer, 1977)  and in some cases may lead to institutionalization</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>of New York, Stony Brook, New York 11794-2500. (Quay, 1979). Behaviorists have developed treat- ment strategies designed to decelerate problem behaviors, which indude procedures involving ex- tinction (Lovaas, Freitag, Gold, &amp; <ref type="bibr" target="#b22">Kassorla, 1965)</ref>, time-out  <ref type="bibr" target="#b41">(Zeilberger, Sampen, &amp; Sloane, 1968)</ref>, response cost <ref type="bibr" target="#b19">(Iwata &amp; Bailey, 1974)</ref>, overcorrec- tion (Foxx &amp; Bechtel, 1983), contingent electric shock (Carr &amp; Lovaas, 1983; Lovaas &amp; Simmons,  1969), and ecological interventions <ref type="bibr" target="#b15">(Durand, 1983)</ref>. The focus has been on eliminating behavior problems, particularly those such as self-injury, aggression, and tantrums, that are serious enough to jeopardize the safety and effective functioning of the target children and their peers.</p><p>There is consensus among researchers and clinicians that the elimination of behavior problems is an important first step in remediation. Ulti- mately, however, the problematic responses must be replaced with socially usefuil behaviors <ref type="bibr">(Goldia- mond, 1974)</ref>. Because there are few guidelines available to suggest what these replacement be- haviors should be (Donnellan, Mirenda, Mesaros,  &amp; Fassbender, 1983; Voeltz, Evans, Derer, &amp;  Hanashiro, 1983), we sought to develop a method for identifying and assessing those educational situations in which behavior problems reliably occur (Experiment 1) and, second, we sought to use the assessment information in order to select replacement behaviors (Experiment 2).</p><p>Research on the functional analysis of behavior problems provides a good basis on which to build identification and assessment methods. This liter- ature indicates that the factors responsible for the maintenance of behavior problems fall into two broad dasses: escape behavior, controlled by neg- ative reinforcement processes, and attention-seeking behavior, controlled by positive reinforcement processes (Carr &amp; Durand, 1985).</p><p>There is ample evidence to suggest that many children learn to emit behavior problems in the presence of aversive stimuli. The display of such problems frequently results in the removal of these stimuli, a dear example of a negative reinforcement process (Patterson, 1982). In the dassroom setting, instructional demands may frequently function as aversive stimuli and a variety of be- havior problems induding aggression, self-injury, and tantrums may serve as escape behaviors that effectively allow the child to avoid further partic- ipation in instructional tasks (Carr, 1977; Carr &amp;  Newsom, in press; Carr, Newsom, &amp; Binkoff,  1976, 1980; Durand, 1982; Iwata, Dorsey, Slifer,  Bauman, &amp; Richman, 1982; Romanczyk, Colletti,  &amp; Plotkin, 1980; Weeks &amp; Gaylord-Ross, 1981).</p><p>The literature also indicates that the display of behavior problems often results in the child's re- ceiving attention, a dear example of a positive reinforcement process (Patterson, 1982; Wahler,  1976). Many investigators have presented data congruent with the notion that behavior problems may be a form of attention-seeking (Carr &amp;  McDowell, 1980; Iwata et al., 1982; Lovaas et   al., 1965; Patterson, 1980; Wahler, 1969). These   studies also imply that children may learn to emit behavior problems in response to low levels of adult attention.</p><p>Given the results of the empirical investigations to date, it is dear that any method used to assess behavior problems should indude an analysis of the effects of level of attention (to identify possible attention-seeking functions) as well as an analysis of the effects of task difficulty (to identify possible escape functions). This rationale formed the basis for the assessment procedures used in Experiment 1.</p><p>Once it has been determined that a behavior problem likely serves a specific social function (e.g., escape or attention seeking), one is in a position to consider appropriate replacement behaviors. One behavioral alternative to escape would be some form of assistance seeking. For example, it may be possible to teach the child a response that is effec- tive in evoking teacher assistance with a difficult task. Once assistance is provided, the task should no longer be as aversive and therefore escape be- haviors should decrease. Likewise, in the case of behavior problems that are attention seeking, one could teach the child an appropriate alternative response that is effective in securing adult atten- tion.</p><p>An important question concerns the form of the response alternatives to be taught. Several studies suggest that children can be taught to solicit at- tention and assistance verbally (Seymour &amp; Stokes,  1976; Stokes, Fowler, &amp; Baer, 1978). Verbal communication training is not typically used as a method for controlling behavior problems. None- theless, the analysis just presented suggests that if communicative phrases are carefully chosen so that they serve the same presumptive social functions as the behavior problems they are to replace, then deceleration of these problems should be possible. This training strategy was explored in Experi- ment 2.</p><p>EXPERIMENT 1</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHOD</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Children and Setting</head><p>Teachers in a day school program for developmentally disabled children were interviewed, and the first four children who met both the following criteria were selected for indusion in this study:</p><p>They displayed at least one problem behavior per hour in the classroom and had expressive language skill consisting, at a minimum, of single word ut- terances. Based on these criteria, two males and two females were chosen. Jim and Sue were 13 years old; Eve, 14; and Tom, 7. The medical staff had diagnosed Jim as autistic; Sue and Eve as brain damaged; and Tom as developmentally delayed and severely hearing impaired. Tom wore a hear- ing aid. On the Peabody Picture Vocabulary Test, the children's mental age scores were: Jim, 3 years; Sue, 5 years, 10 months; Eve, 2 years, 5 months; and Tom, 5 years. They displayed a variety of aggressive, self-destructive, and disruptive behav- iors that are defined in detail later. Jim and Tom spoke spontaneously in complete sentences. Sue spoke spontaneously in phrases of 2-3 words. Eve was limited to using single noun labels, primarily when prompted.</p><p>Sessions were conducted in a 5 x 10-m auxiliary dassroom located next to the regular dassroom. The experimenter sat between two of the children at a table on which various task materials were placed. All materials were placed 0.3 m from the child so that he or she could readily reach them. If more than one set of materials was used at a time, they were evenly spaced in front of the child, also at 0.3 m distance. Small-group (two children) instruction was used to approximate the regular dassroom practice.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental Design and Overview</head><p>In a given session, a child received either an easy task or a difficult task; in addition, a child received adult attention during either 100% or 33% of the time intervals into which the session was divided. The two levels of task difficulty and the two levels of adult attention were combined to produce three conditions: easy 100, easy 33, and difficult 100. Comparison of easy 100 with easy 33 permitted assessment of the effects of attention level (i.e., 100% versus 33%) while task difficulty was held constant. Comparison of easy 100 with difficult 100 permitted assessment of the effects of task difficulty while attention level was held constant. Easy 100 was designated as the baseline condition with which the other two conditions were com- pared. This designation was based on teacher re- ports and our own informal dassroom observations which suggested that a combination of easy tasks and high levels of teacher attention generally re- sulted in a low frequency of behavior problems.</p><p>The easy 33 and difficult 100 conditions alter- nated with the baseline easy 100 condition in a reversal design. The sequence of conditions was counterbalanced across children to control for order effects. Session length was always 10 min and 1- 3 sessions were run per day. When multiple ses- sions were run on the same day, there was a 5-min break between sessions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure</head><p>Easy 100. In easy 100, a child worked on receptive labeling and match-to-sample and re- ceived some form of adult attention for doing so in 100% of the intervals in each session as determined by a time sampling procedure described later. In the receptive labeling task, the child was presented with several cards from the Peabody Picture Vocabulary Test, a measure of receptive la- beling skill that is based on a series of picture cards graded in difficulty. Each card on this test is di- vided into quadrants, one picture per quadrant. A card was placed on the table in front of the child and the child was asked to point to the relevant picture named by the adult (e.g., "Point to the ball"). To ensure that this task was indeed easy, an additional assessment was conducted prior to the start of this condition. The child was twice presented with the Peabody cards, and 20 cards were selected on which the child always responded correctly. These cards constituted the materials for the receptive task.</p><p>For the match-to-sample task, 3 cards were selected at random from the group of 20 cards described above. One picture from each of the 3 cards was randomly chosen and 11 copies were made of each picture. The three different pictures were placed in a row in front of the child. These pictures constituted the samples. The remaining 30 pictures (i.e., 10 copies of each picture) were mixed together and placed in a pile 0.1 m behind the samples. The adult pointed to the card at the top of the pile of copies and said to the child "Match this" or an equivalent statement. The child was then expected to place the card on top of the cor- rect sample. The children had considerable expe- rience on matching tasks and therefore did not require any prompts to match each card correctly. Typically, they would match several cards from the pile following a single command from the adult. Whenever they finished matching all the cards, the adult would gather up the copies, mix them to- gether, and again place them behind the samples. The procedure was then recyded.</p><p>On those rare occasions on which a child made an error on either the match-to-sample or receptive labeling tasks, the adult would say "No!" or "That's not correct!" and go on to the next trial. Correct responding produced verbal praise (defined later). The two tasks were alternated, 5 min each, within each 10-min session. The task sequence was randomized across sessions.</p><p>In each session, the adult would deliver atten- tion in the form of mands, praise, and comments. A mand (e.g., "Point to the " on the receptive labeling task, and "Match this" on the match- to-sample task) was presented in every third re- cording interval. Praise was given in a different third of the intervals, either contingent on correct responding (e.g., "That's right!") or contingent on general task-related behavior (e.g., "You're work- ing very nicely!"). While giving verbal approval, the adult made eye contact with the child, smiled or nodded or both, and delivered physical approval in the form of pats on the shoulder, mussing the child's hair, tickling, and related actions. Finally, comments were made in yet a different third of the intervals and consisted of a variety of descriptive statements (e.g., "It's sunny today.").</p><p>The adult was cued by a bug-in-the-ear device as to when to deliver attention (i.e., a beep oc- curred every 10 s). In addition, the adult kept a written tally of the various forms of attention de- livered, which helped ensure that the three forms of attention were given equally throughout the ses- sion. Some form of adult attention (i.e., mands, praise, or comments) was given in every interval of the session, with the three forms being presented in a random sequence within and between sessions. A new trial began, every 30 s on the average, with the presentation of a mand. Thus, there were 20 mands given during each 10-min session. This procedure was in effect during all conditions. The other child who was seated at the table was given independent desk work to do while the session was being run. When the adult was not attending to the target child, the adult attended to (i.e., in- structed and praised) the second child.</p><p>When a child displayed a behavior problem, the experimenter reacted as follows. If the child left his or her seat, the experimenter waited 10 s for the child to return. If the child did not return, the experimenter led the child back to his or her seat without comment. The experimenter ignored all other behavior problems (i.e., made no com- ment) and continued with the task at hand unless the behavior posed a physical risk. In that case, the experimenter restrained the child. For example, if the child struck the experimenter hard, the ex- perimenter would grasp the child's hand and re- strain it on the child's lap for a period of 5-10 s while the experimenter would continue with the task at hand. This procedure was in effect during all experimental conditions.</p><p>In this and subsequent conditions, approxi- mately one-third of the sessions were conducted by an adult (randomly chosen from a pool of five adults) who was naive to the purpose of the ex- periment. The other sessions were conducted by the second author.</p><p>Easy 33. In the regular dassroom, teacher at- tention was typically low during independent work assignments. Because match-to-sample was the most commonly used task for developing independent work skills, we chose it to assess the effects of low rates of adult attention on the level of be- havior problems. This test was consistent with classroom practice and was a task that the children could complete without error. The sessions were conducted as in easy 100 but the amount of adult attention was decreased. Specifically, mands and praise were each presented during one-third of the recording intervals as before; however, they were now programmed within the same interval rather than in different intervals as had been the case for easy 100. Also, comments were discontinued. These changes resulted in a decrease in overall adult at- tention from 100% to 33% of the intervals, with- out altering the amount of praise or mands given. That is, in the one interval out of three that in- duded attention, both praise and mands occurred at a level equal to that in easy 100. During those periods of time in which the adult was not attend- ing to the target child, the adult worked with the other child seated at the table.</p><p>Difficult 100. In the regular classroom, vocab- ulary tasks typically generated many errors. Be- cause receptive labeling of picture cards from a Peabody language development kit was one of the most commonly used tasks for building vocabu- lary, we chose a similar task for difficult 100, to be consistent with dassroom practice. To ensure that the task was indeed difficult, we carried out an additional assessment prior to the start of this condition. Specifically, cards from the Peabody Pic- ture Vocabulary Test were selected on which the child scored at chance levels with respect to recep- tive labeling (25% correct). The method for se- lecting these cards was the same as that used in easy 100. In all other respects, this condition was run in the same manner as easy 100.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response Definitions and Reliability</head><p>Three classes of responses were recorded: dis- ruptive behavior, adult attention, and academic behavior. Based on our preliminary classroom ob- servations as well as teacher reports, we identified three to five common topographies of disruptive behavior for each child. These topographies in- cluded aggression for all four children (poking or hitting other people, or pulling their hair; striking or knocking over objects); tantrums for Jim, Tom, and Sue (any loud voalization or screaming ac- companied by whining or crying); self-injury for Jim, Eve, and Sue (hitting one's head with one's hand; biting one's hand); opposition for Jim, Eve, and Sue (saying "No" to an adult's request or pushing away the task materials); out of seat for Tom and Sue (child's buttocks breaking contact with the seat of the chair for 3 s or more); and stripping in the case of Eve (removing any article of clothing from one's body).</p><p>Adult attention consisted of praise, mands, and comments. Praise was defined as any form of ver- bal approval delivered contingent on correct responding to a task (e.g., "That's right!") or con- tingent on general cooperative behavior (e.g., "I like the way you're working today!"). Mands were defined as any task-related request made by the adult (e.g., "Point to the truck" for the receptive labeling task, or "Match this" for the match-tosample task). Comments were defined as any descriptive remarks made by the adult (e.g., "There sure are a lot of pictures," or "It's sunny today.").</p><p>Academic behavior was defined separately for the two tasks. On the receptive task, a correct response was scored if the child pointed to the picture named by the adult. An incorrect response was scored if the child pointed to one of the other three pictures on the Peabody card or failed to respond within 10 s. On the match-to-sample task, a correct response was scored if the child responded to the adult's command by placing one of the copies of the pictures on top of the appropriate sample. An incorrect response was scored if the child placed the copy on top of the wrong sample or failed to respond within 10 s.</p><p>All responses were recorded using a continuous 10-s interval procedure. Observers sat in a corner of the room, 2.5 m from the child, and out of the child's line of sight. A tape recorder equipped with earphones emitted the recording interval number at the end of each 10-s interval. The presence or absence of the responses previously defined was recorded for each interval.</p><p>Reliability observers were drawn two at a time from a pool of four undergraduate students. All observers were trained prior to the investigation by recording in classrooms. Training proceeded until the observers reached a criterion of 75% agreement on all behavior categories with one standard ob- server (an undergraduate who had extensive ex- perience in behavioral recording). During the ex- periment, reliability was assessed in 70% of the sessions conducted for each child. Observer records were compared on an interval-by-interval basis. For disruptive behavior and adult attention, the reli- ability index used was the number of agreements divided by the number of agreements plus dis- agreements multiplied by 100. Academic behav- iors were scored on a trial-by-trial basis to yield percent correct figures. The mean interobserver re- liability was 80% or higher for all response cate- gories.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>REsuLTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Validation of Task Difficulty and Adult Attention Manipulations</head><p>For brevity, only group averages are reported; however, in all cases, individual data were consistent with the group means.</p><p>With respect to task difficulty, the mean percent correct observed across the four children was 96.5% in easy 100, 97.3% in easy 33, and 26.9% in difficult 100. With respect to adult attention, the mean level of this variable observed across the four children was 99.7% in easy 100, 33.4% in easy 33, and 99.9% in difficult 100. Thus, we suc- ceeded in creating two levels of task difficulty (an easy level approximating 100% correct and a difficult level approximating 25% correct), and two levels of adult attention (a high level approximat- ing 100% attention and a low level approximating 33% attention). Finally, praise, mands, and com- ments each occurred at an average of approximately 33% in all conditions except during easy 33 in which comments occurred at zero or near- zero levels as planned.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effects on Disruptive Behavior</head><p>Figure <ref type="figure">1</ref> shows the percentage of intervals in which disruptive behavior occurred during each session for the four children. There were three dis- tinct patterns of disruptive behavior. Jim and Eve were disruptive primarily in the difficult 100 con- dition. Tom was disruptive primarily in the easy 33 condition, and Sue was disruptive in both easy 33 and difficult 100. As expected, disruptive be- havior in easy 100 was negligible for all children thus justifying our use of this condition as a base- line. The filled circles in Figure <ref type="figure">1</ref> depict the results of sessions run by naive experimenters. As can be seen, there were no systematic differences between these data points and those generated by the in- formed experimenter (open circles).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The fact that there were several patterns of dis- ruptive behavior displayed in Experiment 1 sug- gests that more than one variable was controlling the children's behavior. There is some evidence in the published literature (Carmine, 1976) that long intertrial intervals, such as those we used, may contribute to off-task behavior. Nonetheless, we felt that the use of long intervals was justified given that a major educational goal for these children involved group instruction, a situation in which long intervals are inevitable. In fact, long intervals did not in themselves guarantee disruptive behavior. The nature of the task and level of adult at- tention were the most reliable predictors.</p><p>Consider Jim and Eve. Their behavior problems became more frequent when demands increased in difficulty (difficult 100) but these children were relatively well behaved in the other two conditions. This behavior pattern is consistent with the notion of escape responding. Specifically, it is hypothe- sized that some children have a history of success- fiully escaping from presumably aversive stimuli (such as difficult task demands and ensuing failure) contingent on the display of disruptive behavior. If a child has this history, then difficult task de- mands may eventually come to be discriminative for the emission of problem behavior.</p><p>Tom's results suggest the operation of a second controlling variable. His behavior problems be- came more frequent when the overall level of adult attention was reduced (easy 33) but he was rela- tively well behaved in the other two conditions. This pattern of behavior is consistent with the no- tion of attention seeking. Specifically, it is hypoth- esized that some children have experienced the fol- lowing set of contingencies. First, the amount of adult attention given to the child decreases to a low level. From time to time, when the child mis- behaves, the adult attends to the child. The cu- . Percent intervals of disruptive behavior as a function of level of task difficulty (easy vs. difficult) and overall level of adult attention (100% vs. 33% of total intervals). Open cirdes depict sessions conducted by an informed experi- menter; filled cirdes, sessions conducted by naive experimenters. mulative effect of this intermittent reinforcement is that the misbehavior is strengthened. If a child has this history, then low levels of adult attention may eventually come to be discriminative for the emission of problem behavior.</p><p>Sue differed from the other three children in that her behavior problems appeared to be under the control of both the occurrence of difficult task de- mands and the presence of low levels of adult attention. This response pattern is consistent with the results of previously cited research indicating that the behavior problems of a given child can be controlled by more than one set of variables.</p><p>We would like to qualify our analysis by sug- gesting that the pattern of results observed could plausibly be attributed to other processes than those mentioned. For example, behavior problems as- sociated with task difficulty might stem from a child's failure to attend to adult instructions. Like- wise, behavior problems occurring after a shift to low levels of attention might be viewed as adjunctive behavior induced by a decrease in the richness of the prevailing schedule of reinforcement. These alternative explanations need to be evaluated ex- perimentally; however, our assumption concerning the primacy of positive and negative reinforcement processes is at least as plausible and heuristic as the alternatives just presented. EXPERIMENT 2 In Experiment 2, we sought to reduce the behavior problems identified in Experiment 1 by teaching the children verbal communicative phras- es that served to elicit either adult assistance or adult attention.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>METHOD</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Children and Setting</head><p>These were the same as in Experiment 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental Design and Overview</head><p>The problematic situations identified for each child in Experiment 1 constituted the baseline phase in Experiment 2. The intervention consisted of two phases: relevant response and irrelevant response.</p><p>Consider first the relevant response phase for Jim, Eve, and Sue. Recall that these children mis- behaved in the difficult 100 condition. Because this condition involved difficult tasks, one treat- ment strategy already noted would be to teach the children to solicit adult assistance. A relevant com- municative response for a child to make might be a phrase such as "I don't understand." This phrase would serve to prompt a teacher to provide help on the difficult task. Accordingly, we taught this phrase to the three children involved.</p><p>Consider next the relevant response phase for Tom and again Sue. Recall that they misbehaved in the easy 33 condition. Because this condition involved low levels of adult attention, one treat- ment strategy noted already would be to teach the children to solicit praise. A relevant communicative response for a child to make might be a phrase such as "Am I doing good work?" This phrase would serve to prompt a teacher to praise the child. Accordingly, we taught this phrase to the two chil- dren involved.</p><p>Of course, it might be argued that teaching a child any communicative phrase would produce a decrease in disruption. To control for this possibility, we introduced an irrelevant response phase. Specifically, we taught Jim, Eve, and Sue (who misbehaved in difficult 100) to ask, "Am I doing good work?" Because this phrase was pertinent to soliciting praise but not assistance, it was desig-nated as a communicatively irrelevant response with respect to difficult 100. As such, we predicted that it would function as a control, failing to bring about any decrease in disruptive behavior. Simi- larly, we taught Tom and Sue (who misbehaved in easy 33) to say "I don't understand." Because this phrase was pertinent to soliciting assistance but not praise, it was designated as a communicatively irrelevant response with respect to easy 33. Therefore, we predicted that it would not produce a decrease in disruptive behavior in this condition. In short, during the irrelevant response phase, chil- dren who misbehaved in the difficult 100 condi- tion were taught the phrase that was relevant to easy 33, and children who misbehaved in the easy 33 condition were taught the phrase that was rel- evant to difficult 100. Figure <ref type="figure">2</ref> shows, in flow chart form, the relationships between the behavior of the child and the behavior of the experimenter in Experiment 2.</p><p>The relevant and irrelevant response phases were alternated with the baseline phase in a reversal design, with the phases counterbalanced across children. Because Tom was soon to be placed in another school, he received a shortened version of the design. Number of sessions per day and session duration were the same as in Experiment 1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Procedure</head><p>Baseline phase. All procedures and tasks used in baseline were the same as those described in Experiment 1 with two exceptions. First, after every incorrect response in difficult 100, and after every 30 s on the average in easy 33, the experimenter would ask, "Do you have any questions?" It was necessary to indude this question in baseline be- cause it was subsequently used in the relevant and irrelevant response phases. The question was scored as a mand. Second, during difficult 100, we used 40 different Peabody cards rather than 20. This change was necessary because we anticipated that a large number of cards might be needed during intervention.</p><p>In this and subsequent conditions, approxi- mately two-thirds of the sessions were run by an adult (randomly chosen from a pool of five adults) Relationships between the behaviors of the child and the behaviors of the experimenter during baseline (a condition in which child verbal responses had not yet been taught or were ignored if they had been taught), relevant response (a condition in which the child's verbal response was relevant to the situation evoking the problem behavior), and irrelevant response (a condition in which the child's verbal response was not relevant to the situation evoking the problem behavior).</p><p>who was naive to the purpose of the experiment. The other sessions were run by the second author.</p><p>Relevant response phase. This phase was iden- tical to baseline except that it was preceded by a training period. Specifically, each child was taught to respond to the query, "Do you have any ques- tions?" with either "Am I doing good work?" or "I don't understand" depending on which state- ment was relevant to the problem situation at hand.</p><p>Training was carried out in a single session con- sisting of three stages. In stage one, the child was verbally prompted by the experimenter to make the requisite response (i.e., "Say, 'I don't understand"' or "Say, 'Am I doing good work?"').</p><p>When the child correctly imitated on at least 8 out of 10 trials, stage two began. In this stage, imi- tation training was continued in the context of the task itself. Specifically, in difficult 100 the exper- imenter asked the child to point to the correct picture. When the child made an error, the exper- imenter said "That's not correct!" (as before) and added, "Do you have any questions? Say, 'I don't understand."' When the child imitated correctly, the experimenter said a variation of the sentence, "O.K., I'll show you" and pointed to the appro- priate picture while verbalizing its label (e.g., "This is a horse."). In easy 33, the experimenter asked the child to match the pictures as before. Every 30 s, the experimenter inquired, "Do you have any questions? Say, 'Am I doing good work?"' When the children imitated correctly, the experimenter said a variation of the sentence, "I like the way you're working today. You're putting all the pic- ture where they belong!" Verbal praise was always accompanied by smiles and nods as well as physical approval such as tickling and pats on the back. When the child imitated correctly on at least 8 out of 10 trials, stage three began. In this stage, the adult's verbal prompts were faded out. That is, the adult spoke the sentence "Say, ' ' more and more quietly over trials.</p><p>Training was considered complete when the child was responding correctly to "Do you have any questions?" on 10 consecutive trials without any prompts. At this point, regular sessions were again conducted with each child as per the general base- line procedure described previously. The adult con- tinued to respond to each child's trained verbal response with the appropriate consequence (i.e., assistance or praise). Because children in difficult 100 were now receiving assistance, they would oc- casionally learn a new label. Therefore, to keep the difficult 100 condition difficult, we replaced any card that the child labeled correctly, twice in a row, with a new card drawn from the pool of 40 cards.</p><p>Because Sue misbehaved in both difficult 100 and easy 33, she was trained in each condition separately. Each day she received training in both difficult 100 and easy 33 with sessions randomly alternated between the two conditions. Irrelevant response phase. This phase was con- ducted in the same manner as the previous one except that each child was taught to respond to the experimenter's question in a manner opposite that specified in the previous phase. That is, in difficult 100, the child was now taught to answer, "Am I doing good work?" and, in easy 33, to say "I don't understand."</p><p>During difficult 100, the experimenter responded to the child's communicative phrase by praising (e.g., "I like the way you're trying today."). How- ever, assistance was not provided. During easy 33, the experimenter responded by providing assis- tance (e.g., "The picture goes here [pointing] just where you put it last time."). However, praise was not provided. In short, during the irrelevant re- sponse phase, the children were taught phrases that produced consequences that were presumably ir- relevant to the problem situation. Specifically, the children received praise in difficult 100, a situation that called for assistance; and they received assis- tance in easy 33, a situation that called for praise.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Response Definitions and Reliability</head><p>Disruptive behavior, adult attention, and aca- demic behavior were recorded using the definitions described in Experiment 1. In addition, two dasses of child verbal responses were recorded. A relevant response was defined as the phrase "Am I doing good work?" emitted during easy 33, or the phrase "I don't understand" emitted during difficult 100. An irrelevant response was defined as the phrase "I don't understand" emitted during easy 33, or the phrase "Am I doing good work?" emitted during difficult 100.</p><p>Reliability was assessed in 70% of the sessions conducted for each child. The reliability procedure and computation method were carried out as per Experiment 1. The mean interobserver reliability was 80% or greater for all response categories with the exception of disruptive behavior for Sue, which was 74%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>REsuLTs</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Validation of Task Difficulty and Adult</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Attention Manipulations</head><p>The validation data directly parallel those re- ported in Experiment 1 and will therefore be pre- sented briefly. In all cases, individual data were consistent with group means.</p><p>With respect to task difficulty, the mean percent correct across children varied from 25.0% to 27.4% during all phases of difficult 100 and from 94.9% to 95.4% during all phases of easy 33. During the relevant response phase of difficult 100, a child's score in some sessions ranged as high as 33% cor- rect, reflecting the fact that, occasionally, the child learned a new label. However, our practice of re- placing learned picture cards with new ones en- sured that the overall percent correct remained dose to the desired 25% level. With respect to adult attention, the mean level of this variable ranged from 98.4% to 99.1% during all phases of difficult 100 and from 35.2% to 35.6% during all phases of easy 33. Because both attention level and task difficulty were held constant across phases, changes in the amount of disruptive behavior across phases cannot be attributed to changes in either of these two variables. Finally, praise, mands, and comments each occurred at an average of approxi- mately 33% in all conditions except during easy 33 in which comments occurred at near-zero levels as planned.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Child Verbal Responses</head><p>The relevant response category occurred during an average of 36.8% of the intervals across chil- dren during the relevant response phase. During the other two phases, namely, baseline and irrelevant response, the relevant response category oc- curred in only 2.3% and 3.7% of the intervals, respectively. The irrelevant response category oc- curred during an average of 10.1% of the intervals across children during the irrelevant response phase. In contrast, during the baseline and relevant re- sponse phases, the irrelevant response category oc- curred in only 1.7% and 1.1% of the intervals, respectively. It should be noted that in the initial baseline, none of the trained responses (i.e., rele- vant or irrelevant) was observed to occur. These responses were only observed during baseline ses- sions that were conducted later in the experiment (i.e., after training had taken place). Table <ref type="table" target="#tab_0">1</ref> shows the mean percent intervals in which each child displayed either a relevant response or an irrelevant response across the three phases of Experiment 2. These individual data are consistent with the group means just reported.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effects on Disruptive Behavior</head><p>Disruptive behavior was reduced to low levels after a child was trained to emit a relevant com- municative response but remained high after a child was taught an irrelevant communicative response. The top panel of Figure <ref type="figure" target="#fig_4">3</ref> shows the percentage of intervals in which disruptive behavior occurred during each session for Jim. In baseline (before  any communicative responses were trained), Jim displayed an average level of disruption of 36.2%. Disruptive behavior during the irrelevant response phase averaged 48.8%. In sharp contrast to the above figures, Jim's disruption fell to a level of 0.5% in the relevant response phase. The data for the other three children are similar to those for Jim.</p><p>The filled circles in Figure <ref type="figure" target="#fig_4">3</ref> depict the results of sessions conducted by naive experimenters. As can be seen, there were no systematic differences between these data points and those generated by the informed experimenter (open circles).</p><p>Figure <ref type="figure" target="#fig_4">3</ref> also displays for each child the level of relevant and irrelevant responses across each phase of the experiment. Consider Jim's data (top panel). During the initial relevant response phase, Jim dis- played sustained rates of the relevant response cat- egory (stippled bars) across the entire phase. Sus- tained rates of the relevant response were also maintained during the later relevant response phases. In contrast, consider the initial irrelevant re- sponse phase. During this phase, the rate of irrel- evant response (hatched bars) was not sustained across sessions. By the end of the phase, the re- sponse level had decreased to zero. This pattern is also evident during the later irrelevant response phase. It should be noted that all the response patterns described above for Jim were also characteristic of the responding of the other three chil- dren. Finally, consider the baseline phases for the four children. Occasionally, either relevant or ir- relevant responses or both would occur during the early sessions of these phases. In all cases, however, responding showed a steady decline, generally to a zero level, as the phase progressed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>In Experiment 2, task difficulty, overall atten- tion level, and the level of praise, mands, and comments were all held constant across phases for each child. Therefore, decreases in the level of dis- ruptive behavior cannot be attributed to changes in any of these variables. It thus appears that the establishment of a functional communicative re- sponse was the effective variable in reducing be- havior problems.</p><p>The mechanism by which communication train- ing works may be conceptualized as follows. Con- sider first those children who exhibited behavior problems in the difficult task condition. If difficult task demands and subsequent failure are discrim- inative for high rates of behavior problems, then a procedure that reduces task difficulty and thereby limits incorrect responding will effectively remove the stimuli that are discriminative for problem be- havior. The relevant communicative response (i.e., "I don't understand") functioned to elicit adult assistance that resulted in the child's making a correct (though prompted) response. In other words, each time that the child made the verbal request, the adult provided assistance, thereby sim- plifying the difficult task and averting failure on the part of the child. Thus, the stimuli controlling high rates of behavior problems were effectively eliminated and, not surprisingly, the child's behavior improved.</p><p>Consider next those children who exhibited behavior problems in the low attention condition. Recall that in the baseline phase of this condition, the adult attended to behavior problems on an intermittent basis (e.g., the adult held down the child's hands following a severe aggressive act but simply ignored less severe aggressive acts). In other words, attention-seeking behavior problems were responded to inconsistently. In contrast, following relevant response training, the child's attentionseeking verbal requests (i.e., "Am I doing good work?") were consistently reinforced. It is a well- known operant principle that consistent reinforce- ment is a more effective means of strengthening an operant than inconsistent reinforcement <ref type="bibr" target="#b34">(Sulzer- Azaroff &amp; Mayer, 1977)</ref>. Therefore, it is plausible that the observed decrease in attention-seeking be- havior problems and concomitant increase in attention-seeking verbal requests reflect the fact that the communication contingency provided highly consistent reinforcement for the latter behavior in the face of highly inconsistent reinforcement for the former behavior. The result was that the verbal requests were strengthened and replaced the problem behaviors.</p><p>The conceptualization just outlined is further supported by the results of the irrelevant response phase. Consider first those children whose behavior problems were set off by the presence of difficult demands and ensuing failure. Merely teaching such children to solicit praise (the irrelevant response) would not remove the stimuli that evoke the be- havior problems. Hence, one would predict that the problems would remain frequent, a result that was in fact observed. The praise-seeking response was nonfunctional in the difficult demand condi- tion since it did not evoke adult assistance. Therefore, one could make a second prediction, namely, that the response should extinguish and, indeed, it did.</p><p>Consider next those children whose behavior problems were hypothesized to be attention-seek- ing. Simply teaching such children to solicit assistance in the low attention condition should have no effect. That is, an assistance-seeking response would be nonfunctional because it would merely evoke aid in the form of a brief confirmatory state- ment (i.e., "The picture goes here.") rather than effusive attention in the form of praise (e.g., "I like the way you're working!") coupled with nods, smiles, and physical approval (e.g., tickling). Again, such a nonfunctional response would be expected to have no decelerative effect on behavior problems and the response would therefore be likely to de- crease over time. Both expectations were confirmed. To sum up, the irrelevant response phase demonstrated that not all communicative phrases will be effective in reducing behavior problems. The phrase that is chosen must be functionally related to the specific nature of each child's behav- ior problems. Or, to put it in other terms, the specific form of the verbal response is not important. What matters most is the consequence that follows a particular verbal communicative act.</p><p>Of course, one could argue that behavior prob- lems might also have been reduced without any communication training; that is, one could simply provide the children with assistance or praise where appropriate and not teach the children to request these events verbally. However, this procedure would place the child in a passive role, a role that developmentally disabled children already play too often. Communication training, in contrast, pro- vides an important educative function in that chil- dren learn that communicative behavior can pro- duce consistent and useful social effects such as eliciting assistance on academic work and praise for good performance. In this manner, the child's role becomes that of an active participant rather than a passive recipient. Ultimately, one would also like to drop the adult query, "Do you have any questions?" and have the child emit the verbal response spontaneously. This type of spontaneity is an important focus of our current research deal- ing with functional communication training as a treatment for behavior problems.</p><p>Finally, we note that certain problem situations, at least initially, may call for an intervention strat- egy other than communication training. Children who pose serious physical danger to themselves or others through their behavior may require deceler- ative treatments on a crisis intervention basis. Eventually, however, the issue of teaching alter- native behaviors will arise, and we offer commu- nication training as one possibility.</p><p>GENERAL DISCUSSION Behavior problems can be reduced by teaching children communicative phrases that are effective in altering the stimulus conditions that control the problems. In Experiment 1, we demonstrated an assessment method for identifying, within an in- structional context, those stimulus situations (i.e., difficult demands or low adult attention or both) that were discriminative for child misbehavior. In Experiment 2, we demonstrated that the com- municative phrase that is selected to replace the behavior problem must be functionally related to the controlling stimuli. Communicative phrases that were functionally unrelated were ineffective in re- ducing behavior problems. These data are consistent with a broader con- ceptualization of misbehavior that has recently emerged within the field. This conceptualization has been referred to as the communication hy- pothesis of child behavior problems. The hypoth- esis states that behavior problems may function like nonverbal communicative acts to request (i.e., mand) specific reinforcers that are socially mediat- ed (Carr, 1985; Carr &amp; Durand, 1985; Neel et  al., 1983; Reichle &amp; Yoder, 1979).</p><p>There are several sources of data bearing on this hypothesis. Within the field of psycholinguistics, research suggests that many nonverbal behaviors displayed by very young children, such as pointing or showing objects to an adult, serve communi- cative functions (Bates, Camaioni, &amp; Volterra,  1975; Leung &amp; Rheingold, 1981). Some of these behaviors serve as nonverbal requests for adult at- tention and others, as requests for specific rein- forcing objects and events. Several developmental psychologists have extended this analysis to other nonverbal behaviors, in particular, those behaviors that adults find disturbing. For example, studies of early social behavior (Bell &amp; Ainsworth, 1972;  Brownlee &amp; Bakeman, 1981; Wolff, 1969) sug- gest that crying and aggression in infants and tod- dlers may also function as nonverbal requests that are effective in reliably securing attention and ma- terial reinforcers from adults as well as in termi- nating aversive situations. Finally, in the area of developmental disabilities, there is a substantial literature demonstrating an inverse relationship between level of communicative skill and frequency of behavior problems (Casey, 1978; Foxx &amp; Liv- esay, 1984; Shodell &amp; Reiter, 1968; Talkington,   Hall, &amp; Altman, 1971). This inverse relationship has led some investigators (e.g., Shodell &amp; Reiter,  1968; Talkington et al., 1971) to speculate that behavior problems may function like nonverbal communicative acts and that, once children are taught more reliable ways to gain attention or es- cape aversives (e.g., through speech), the behavior problems are no longer as effective and disappear.</p><p>The communication hypothesis has heuristic value in that it may lead to the formulation of specific remediation strategies such as those de- scribed above. It is likely that we will never be able to demonstrate definitively that a particular child intended to ask for assistance or attention by means of his or her misbehavior. Nonetheless, we may find it helpful to view misbehavior as if it were a form of nonverbal communication, specif- ically, a request for certain behaviors on the part of others. Then, reasoning analogically, we may proceed by teaching those children whose misbe- havior is construed as communicating a nonverbal request for attention, a verbal means for obtaining the same. In addition, we may teach those children whose misbehavior is construed as communicating a nonverbal request to escape, a verbal means for obtaining assistance. Seen in this light, the key notion underlying the effectiveness of communi- cation training is that of functional equivalence. Specifically, although two behaviors may differ in form (e.g., aggression versus the phrase, "Am I doing good work?"), they may nonetheless be identical in function (i.e., both aggression and the verbal request produce attention). The communi- cation training strategy capitalizes on this equiva- lence by strengthening a socially desirable form (i.e., a verbal request) that serves the same pre- sumptive function as a socially undesirable form (e.g., aggression) thereby weakening or eliminating the latter.</p><p>It is worth emphasizing that the strategy we have described will fail unless there is functional equivalence between the two forms. This point was made dear in the irrelevant response phase during which, for example, a verbal request for attention was taught in a situation in which the misbehavior ostensibly served an escape function. In this in- stance, the verbal request and the misbehavior were functionally nonequivalent and, as we have noted, misbehavior did not decrease. The necessity for equivalence emphasizes the extreme importance of first performing a functional analysis of behavior problems (as was done in Experiment 1) prior to selecting specific communicative phrases designed to replace these behaviors. Clearly, then, the notion of functional equivalence is a cornerstone of the communication hypothesis of behavior problems and its associated method of treatment. In this regard, the hypothesis is consistent with the central thesis of the behavioral approach to psychology, namely, that the understanding of human behavior is best advanced through the analysis of function rather than form.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Figure1. Percent intervals of disruptive behavior as a function of level of task difficulty (easy vs. difficult) and overall level of adult attention (100% vs. 33% of total intervals). Open cirdes depict sessions conducted by an informed experi- menter; filled cirdes, sessions conducted by naive experimenters.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head></head><label></label><figDesc>Figure2. Relationships between the behaviors of the child and the behaviors of the experimenter during baseline (a condition in which child verbal responses had not yet been taught or were ignored if they had been taught), relevant response (a condition in which the child's verbal response was relevant to the situation evoking the problem behavior), and irrelevant response (a condition in which the child's verbal response was not relevant to the situation evoking the problem behavior).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>numbers shown are percentages. Numbers outside parentheses are means; numbers inside are ranges.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Percent intervals of disruptive behavior during baseline, relevant response, and irrelevant response phases.Open cirdes depict sessions conducted by an informed experimenter; filled cirdes, sessions conducted by naive experimenters. The level of relevant verbal responses is indicated by stippled bars and that of irrelevant verbal responses, by hatched bars.</figDesc><graphic coords="13,22.32,64.08,421.44,322.56" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 Child</head><label>1</label><figDesc>Verbal Response (Percent Occurrence) in Each Phase of Experiment 2</figDesc><table><row><cell></cell><cell cols="2">Child verbal response</cell></row><row><cell>Child</cell><cell>Relevant</cell><cell>Irrelevant</cell></row><row><cell>Jim (Difficult 100)</cell><cell></cell><cell></cell></row><row><cell>Baseline</cell><cell>2.8 (0-18)</cell><cell></cell></row><row><cell>Relevant</cell><cell></cell><cell></cell></row><row><cell>response</cell><cell></cell><cell></cell></row><row><cell>Irrelevant</cell><cell></cell><cell></cell></row><row><cell>response</cell><cell></cell><cell></cell></row><row><cell>Eve (Difficult 100)</cell><cell></cell><cell></cell></row><row><cell>Baseline</cell><cell></cell><cell></cell></row><row><cell>Relevant</cell><cell></cell><cell></cell></row><row><cell>response</cell><cell></cell><cell></cell></row><row><cell>Irrelevant</cell><cell></cell><cell></cell></row><row><cell>response</cell><cell></cell><cell></cell></row><row><cell>Tom (Easy 33)</cell><cell></cell><cell></cell></row><row><cell>Baseline</cell><cell></cell><cell></cell></row><row><cell>Relevant</cell><cell></cell><cell></cell></row><row><cell>response</cell><cell></cell><cell></cell></row><row><cell>Irrelevant</cell><cell></cell><cell></cell></row><row><cell>response</cell><cell></cell><cell></cell></row><row><cell>Sue (Easy 33)</cell><cell></cell><cell></cell></row><row><cell>Baseline</cell><cell></cell><cell></cell></row><row><cell>Relevant</cell><cell></cell><cell></cell></row><row><cell>response</cell><cell></cell><cell></cell></row><row><cell>Irrelevant</cell><cell></cell><cell></cell></row><row><cell>response</cell><cell></cell><cell></cell></row><row><cell>Sue (Difficult 100)</cell><cell></cell><cell></cell></row><row><cell>Baseline</cell><cell></cell><cell></cell></row><row><cell>Relevant</cell><cell></cell><cell></cell></row><row><cell>response</cell><cell></cell><cell></cell></row><row><cell>Irrelevant</cell><cell></cell><cell></cell></row><row><cell>response</cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This investigation was supported in part by U.S.P.H.S. Biomedical Research Support Grant 2 S07 RR-07067-18 to the State University of New York at Stony Brook to the first author and a Sigma Xi Grant-in-Aid of Research to the second author. Portions of this paper were presented at the annual meeting of the American Psychological Association, Washington, D.C., August 1982, and Anaheim, California, August 1983. This research was based on a master's thesis conducted by the second author under the direction of the first author. We thank Martin Hamburg, Executive Director, Suffolk Child Development Center, for his generous support, and Roseann D'Evanzo, JoAnn Giles, Terry Leykis, Cathy Sheredos, and Doug Walters for assistance with data collection. Finally, we thank Alan 0. Ross, Susan G. O'Leary, K. Dan- iel O'Leary, Crighton Newsom, Paul A. Dores, and Daniel B. Crimmins for their helpful comments. Requests for reprints or individual data should be sent to</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The acquisition of performatives prior to speech</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Camaioni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Volterra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Merrill-Palmer Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="205" to="226" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Infant crying and maternal responsiveness</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D S</forename><surname>Ainsworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Development</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="1171" to="1190" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Hitting in toddler-peer interaction</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Brownlee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bakeman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Development</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1076" to="1079" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Effects of two teacher-presentation rates on off-task behavior, answering correctly, and participation</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Carnine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="199" to="206" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The motivation of self-injurious behavior: A review of some hypotheses</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Carr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="800" to="816" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Behavioral approaches to language and communication</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Carr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Communication problems in autism</title>
+				<editor>
+			<persName><forename type="first">E</forename><surname>Schopler</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><surname>Mesibov</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Plenum</publisher>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="37" to="57" />
+		</imprint>
+	</monogr>
+	<note>Current issues in autism</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The social-communicative basis of severe behavior problems in children</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Durand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Theoretical issues in behavior therapy</title>
+				<editor>
+			<persName><forename type="first">S</forename><surname>Reiss</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Bootzin</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="page" from="219" to="254" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Contingent electric shock as a treatment for severe behavior problems</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">I</forename><surname>Lovaas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Punishment: Its effects on human behavior</title>
+				<editor>
+			<persName><forename type="first">S</forename><surname>Axelrod</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Apsche</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="221" to="245" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Social control of self-injurious behavior of organic etiology</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Mcdowell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavior Therapy</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="402" to="409" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Demand-related tantrums: Conceptualization and treatment</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Newsom</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavior Modification</title>
+		<imprint/>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Stimulus control of self-destructive behavior in a psychotic child</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Newsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Binkoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal ofAbnormal Child Psychology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="139" to="153" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Escape as a factor in the aggressive behavior of two retarded children</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Newsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Binkoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="101" to="117" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Development of communicative behavior in autistic children: A parent program using manual signs</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">0</forename><surname>Casey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Autism and Childhood Schizophrenia</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="45" to="59" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">A strategy for analyzing the communicative functions of behavior. Paper presented at the meeting of The Association for the Severely Handicapped</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Donnellan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Mirenda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Mesaros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Fassbender</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983-11">1983. November</date>
+			<pubPlace>San Francisco</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Analysis and intervention of selfinjurious behavior</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Durand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Association for the Severely Handicapped</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="44" to="53" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Behavioral ecology of a staff incentive program: Effects on absenteeism and resident disruptive behavior</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Durand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavior Modification</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="165" to="181" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Overcorrection: A review and analysis</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Foxx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Bechtel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Punishment: Its effects on human behavior</title>
+				<editor>
+			<persName><forename type="first">S</forename><surname>Axelrod</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Apsche</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page" from="133" to="220" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Maintenance of response suppression following overcorrection</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Foxx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Livesay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Analysis and Intervention in Developmental Disabilities</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="65" to="79" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Toward a constructional approach to social problems</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Goldiamond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behaviorism</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1" to="84" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Reward versus cost token systems: An analysis of the effects on students and teacher</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Iwata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Bailey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="567" to="576" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Toward a functional analysis of self-injury</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Iwata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Dorsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Slifer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Bauman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Richman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Analysis and Intervention in Developmental Disabilities</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="3" to="20" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Development of pointing as a social gesture</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H L</forename><surname>Leung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">L</forename><surname>Rheingold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Developmental Psychology</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="215" to="220" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Experimental studies in childhood schizophrenia: Analysis of self-destructive behavior</title>
+		<author>
+			<persName><forename type="first">0</forename><forename type="middle">I</forename><surname>Lovaas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Freitag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">J</forename><surname>Gold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">C</forename><surname>Kassorla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Child Psychology</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="67" to="84" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Manipulation of self-destruction in three retarded children</title>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<editor>Lovaas, 0. I., &amp; Simmons, J. Q.</editor>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="143" to="157" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Innovative model program for autistic children and their teachers</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Neel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">F</forename><surname>Billingsley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mccarty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Symonds</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lambert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Lewis-Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hanashiro</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<pubPlace>University of Washington, Seattle</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Unpublished manuscript</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>O'leary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>O'leary</surname></persName>
+		</author>
+		<title level="m">Classroom management</title>
+				<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pergamon</publisher>
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+	<note>2nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Mothers: The unacknowledged victims</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Patterson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Monographs ofthe Societyfor Research in Child Development</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Coercive family process</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Patterson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>Castalia</publisher>
+			<pubPlace>Eugene, OR</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Residential treatment</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Quay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Psychopathological disorders of children</title>
+				<editor>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Quay</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Werry</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley</publisher>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="page" from="387" to="410" />
+		</imprint>
+	</monogr>
+	<note>2nd ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Assessment and early stimulation of communication in the severely and profoundly mentally retarded</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Reichle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Yoder</surname></persName>
+		</author>
+		<editor>R. L. York &amp; E. Edgar</editor>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="180" to="218" />
+		</imprint>
+	</monogr>
+	<note>Teaching the severely handicapped. Seattle: American Association for the Education of the Severely/Profoundly Handicapped</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Punishment of self-injurious behavior: Issues of behavior analysis, generalization, and the right to treatment</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Romanczyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Colletti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Plotkin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child Behavior Therapy</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="37" to="54" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Self-recording in training girls to increase work and evoke staff praise in an institution for offenders</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Seymour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Stokes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="41" to="54" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Self-mutilative behavior in verbal and nonverbal schizophrenic children</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Shodell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Reiter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Archives of General Psychiatty</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="453" to="455" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Training preschool children to recruit natural communities of reinforcement</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Stokes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Baer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="285" to="303" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Applying behavior analysis procedures with children and youth</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sulzer-Azaroff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Mayer</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1977">1977</date>
+			<publisher>Holt</publisher>
+			<pubPlace>New York; Rinehart, &amp; Winston</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Communication deficits and aggression in the mentally retarded</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Talkington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Altman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Mental Deficiency</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="235" to="237" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Targeting excess behavior for change: A clinical decision model for selecting priority goals in educational contexts</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Voeltz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Derer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hanashiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Child and Family Behavior Therapy</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="17" to="35" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Oppositional children: A quest for parental reinforcement control</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Wahler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="159" to="170" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Deviant child behavior within the family: Developmental speculations and behavior change strategies</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Wahler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook ofbehavior modification and behavior therapy</title>
+				<editor>
+			<persName><forename type="first">H</forename><surname>Leitenberg</surname></persName>
+		</editor>
+		<meeting><address><addrLine>NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Prentice-Hall</publisher>
+			<date type="published" when="1976">1976</date>
+			<biblScope unit="page" from="516" to="543" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Task difficulty and aberrant behavior in severely handicapped students</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Weeks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gaylord-Ross</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="449" to="463" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">The natural history of crying and other vocalizations in early infancy</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Wolff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Determinants of infant behavior</title>
+				<editor>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Foss</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Methuen</publisher>
+			<date type="published" when="1969">1969</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="81" to="109" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Modification of a child&apos;s behavior problems in the home with the mother as therapist</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zeilberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Sampen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">N</forename><surname>Sloane</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="47" to="53" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
