@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Applied Behavior Analysis</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Wayne</forename><forename type="middle">W</forename><surname>Fisher</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Nebraska Medical Center&apos;s Munroe-Meyer Institute</orgName>
+								<address>
+									<country key="US">U.S.A</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Cathleen</forename><forename type="middle">C</forename><surname>Piazza</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="institution">University of Nebraska Medical Center&apos;s Munroe-Meyer Institute</orgName>
+								<address>
+									<country key="US">U.S.A</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Applied Behavior Analysis</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">161F7B526A144A6EDC148E3BD0FBA0E3</idno>
+					<idno type="DOI">10.1002/9781118625392.wbecp205</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2024-04-14T19:43+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Behavior analysis has three primary branches <ref type="bibr" target="#b5">(Morris, Todd, Midgley, Schneider, &amp; Johnson, 1990</ref>): (a) behaviorism, which addresses conceptual and philosophical issues; (b) the experimental analysis of behavior, which studies basic behavioral principles and processes; and (c) applied behavior analysis (ABA), which applies the principles and procedures of behavior analysis to solve socially relevant problems, and will be the subject of this chapter.</p><p>ABA has been criticized by <ref type="bibr" target="#b4">Kohn (2005)</ref> and mischaracterized as (a) based solely on research conducted with nonhuman species, (b) viewing children as passive entities to be controlled, (c) founded on a coercive technology, (d) ignoring important causes of behavior, and (e) unconcerned about the wellbeing of children. <ref type="bibr">Doughty, Holloway, Shields, and Kennedy (2012)</ref> have refuted these mischaracterizations and suggested ways for better describing and marketing behavior analysis.</p><p>The core tenets that differentiate behavior analysis from other disciplines include its focus on the (a) study and treatment of behavior, which includes observable (e.g., talking and running) and private (e.g., thinking and feeling) events; (b) behavioral processes and environmental events that influence behavior; (c) the behavior of individuals (rather than groups); and (d) the study of behavior in the context of a natural science. <ref type="bibr" target="#b0">Baer, Wolf, and Risley (1968)</ref> identified seven principal dimensions of ABA that define the field: (a) applied, (b) behavioral, (c) analytic, (d) technological, (e) conceptually systematic, (f) effective, and (g) generalizable. The applied dimension of ABA involves the selection of target behaviors that are socially acceptable, important, and relevant to the individual whose behavior is being modified <ref type="bibr" target="#b0">(Baer et al., 1968)</ref>. For example, <ref type="bibr" target="#b1">Bourret, Vollmer, and Rapp (2004)</ref> developed an approach for teaching nonverbal individuals to use spoken words to make requests, which is a critically important skill for someone who has not spoken previously.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dimensions of ABA</head><p>The second dimension of ABA is that it is behavioral <ref type="bibr" target="#b0">(Baer et al., 1968)</ref>. The goal of ABA is the accurate and effective prediction and control of behavior, and we observe, measure, and quantify behavior as directly and precisely as is feasible. For example, behavior analysts rely less on indirect measures (e.g., self-report and rating scales) when direct observation measures are available.</p><p>The third dimension of ABA is that it is an analytic discipline <ref type="bibr" target="#b0">(Baer et al., 1968)</ref>. Behavior analysts attempt to provide a believable demonstration of the effects of their interventions using controlled, single-case designs (e.g., reversal designs).</p><p>The fourth dimension of ABA is that behavior analysts attempt to be technological <ref type="bibr" target="#b0">(Baer et al., 1968)</ref>. We describe our procedures in precise and objective terms such that another competent behavior analyst could replicate them.</p><p>The fifth dimension of ABA is that it should be conceptually systematic <ref type="bibr" target="#b0">(Baer et al., 1968)</ref>. This means that our interventions should be conceptually sound and systematically related to the basic processes and principles of behavior that empirical research has validated. For example, two of the most commonly used treatment components for problem behavior are differential reinforcement and extinction, both of which involve extensively researched behavioral processes.</p><p>The sixth dimension of ABA is effectiveness, which refers to the clinical magnitude and importance of behavior change to the individual whose behavior is being changed <ref type="bibr" target="#b0">(Baer et al., 1968)</ref>. For example, reducing an impulsive child's elopement (e.g., running into the street) from 15 to 5 times per day would probably be statistically significant, but it would not be effective, because five times a day still places the child at substantial risk.</p><p>The seventh dimension of ABA is that treatment effects must be generalizable to other relevant behaviors, caregivers, or settings and also durable over time <ref type="bibr" target="#b0">(Baer et al., 1968)</ref>. For example, treating a child's feeding problems in a clinic is only beneficial if the clinic procedures are effective in the child's home, school, and other community settings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Basic Behavioral Processes and Principles</head><p>Applied behavior analysts focus on two types of learned behavior, respondent and operant, with more emphasis on the latter. There are other forms of behavior that occur without learning (e.g., reflexes), but such behavior rarely requires clinical intervention.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Respondent Conditioning</head><p>Research on respondent behavior was pioneered by <ref type="bibr">Ivan Pavlov (1849</ref><ref type="bibr">-1936)</ref>  <ref type="bibr" target="#b6">(Pavlov, 1927)</ref>. Pavlov paired a neutral stimulus that had no effect on behavior (e.g., a tone) with an unconditioned stimulus that reliably elicited a response (e.g., food, which elicited salivation). The result was that the heretofore neutral stimulus came to elicit the same response as the unconditioned stimulus (e.g., the tone came to elicit salivation). John <ref type="bibr">Watson (1878</ref><ref type="bibr">Watson ( -1958) )</ref> and Rayner <ref type="bibr" target="#b7">(Watson &amp; Rayner, 1920</ref>) used a variation on Pavlov's preparation in their famous "Little Albert" study to both produce and eliminate fear of a white rat. Importantly, variations of the basic procedures developed by Pavlov form the basis of behavior therapy treatments for anxiety disorders.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Operant Conditioning</head><p>Contemporaneous with Pavlov's investigations, E. L. Thorndike (1874-1949) (Thorndike, 1898) began studying the effects of correlating responses (escape from a puzzle box) with delivery of food using animals (e.g., cats). B. F. <ref type="bibr">Skinner (1904</ref><ref type="bibr" target="#b5">-1990</ref><ref type="bibr">) (Skinner, 1938)</ref> was the first person to realize the importance of the distinction between Pavlov's classical paradigm and Thorndike's procedures. Pavlov provided a way to control which stimuli affected responses elicited by reinforcers or unconditioned stimuli, whereas Thorndike's procedure introduced the potential to alter almost any response in an individual's repertoire <ref type="bibr">(Donahoe &amp; Vegas, 2011)</ref>. Three-Term Contingency. <ref type="bibr">Skinner (1938)</ref> developed an operant account of behavior, which conceptualizes behavior to be a joint function of environmental antecedents and consequences. An operant is defined not only by its topographical features (what it looks like) but also by its functional properties (what effect or outcome it produces). At a minimum, an operant consists of a discriminative stimulus, a response, and a reinforcer, which together make up the three-term contingency. The discriminative stimulus (S d ) signals when a response is likely to produce reinforcement; the S-delta (S Δ ) signals when a response will not produce reinforcement. The response (or response class) consists of the topography (or topographies) of behavior that produces reinforcement in the presence of the S d . Reinforcement is the consequence that is produced by the response (or response class) that increases the future probability of that response in the presence of the S d . Together, the S d , the response class that is occasioned by the S d , and the consequence that reinforces the response class in the presence of the S d make up the discriminated operant. For example, drivers generally stop (response) for red lights (discriminative stimulus) because doing so results in avoidance of accidents (consequence). Reinforcement. There are two broad types of reinforcement, positive reinforcement and negative reinforcement. Positive reinforcement is an increase in a response due to the contingent presentation of a stimulus (e.g., a child consistently urinates in the toilet when doing so produces access to toys). Negative reinforcement is an increase in a response due to the contingent removal or avoidance of a stimulus (e.g., leaving for work early to avoid traffic jams).</p><p>Reinforcement is often confused with rewards and bribes. Rewards generally are delivered for commendable behavior (e.g., receiving a gold watch upon retiring), which may or may not affect the future probability of the response. Bribes are generally given to encourage socially undesirable behavior (e.g., paying a voter to vote a certain way). By contrast, positive and negative reinforcement are defined only by their effect on behavior and whether a stimulus is added (positive reinforcement) or removed (negative reinforcement). For example, researchers have shown repeatedly that parental reprimands (e.g., "Stop that, you're hurting me") can function as reinforcement and thus increase problem behavior (e.g., aggression). Clearly, reprimands are not rewards, but they can be reinforcers. Extinction. When the contingency between a response and reinforcement is discontinued, the process is called extinction. For example, parental attention may function as reinforcement for a child's calling-out behavior at bedtime (i.e., the parent is more likely to enter the child's room to tell the child to stop calling out). In this example, extinction would involve the parent no longer providing attention to the child's calling-out behavior. Extinction typically results in a reduction in the rate of a response to baseline levels, but it can produce a temporary increase in responding, called an extinction burst. Bursts are less likely when extinction is implemented in combination with differential reinforcement <ref type="bibr" target="#b4">(Lerman &amp; Iwata, 1995)</ref>. Clinicians should understand the potential side effects of extinction and how to mitigate them, because premature discontinuation of extinction during an extinction burst may result in a worsening of behavior.</p><p>Punishment. There are two types of punishment that parallel the two types of reinforcement. Punishment involves a decrease in responding due to response-contingent delivery of a positive punisher (e.g., a student is required to practice hand raising repeatedly after shouting out in class) or removal of a negative punisher (e.g., a girl loses TV time after hitting her brother).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Schedules of Reinforcement.</head><p>Reinforcement is typically correlated with responses according to different schedules. With fixed-ratio (FR) schedules, reinforcement is delivered after a specific number of responses (e.g., with an FR 3 schedule, reinforcement is delivered after every third response). FR schedules typically produce high rates of responding with pauses after reinforcement.</p><p>With variable-ratio schedules, reinforcement is delivered after a variable number of responses that fluctuate around a specified mean (e.g., with a VR 5 schedule, reinforcement is delivered on average after every fifth response, with a range between three and seven). VR schedules generally produce high rates of responding without much pausing after reinforcement.</p><p>With a fixed-interval (FI) schedule, reinforcement is delivered after the first response that occurs after a specified amount of time has elapsed (e.g., with an FI 3 schedule, the first response emitted after 3 seconds elapsed would produce reinforcement). FI schedules often produce low rates of responding during the early part of each interval, with rates increasing toward the end of the interval.</p><p>With a variable-interval (VI) schedule, reinforcement is delivered after a variable amount of time has elapsed (e.g., with a VI 5 schedule, reinforcement is delivered, on average, after the first response following every 5-second interval, with a range between 3 and 7 seconds). VI schedules generally produce moderately high rates of responding with relatively short pausing after reinforcement delivery. Reinforcement Parameters. Reinforcement parameters that alter the effectiveness of reinforcement include reinforcement rate, magnitude, immediacy, and quality. The rate of a response often closely matches the relative rate of reinforcement produced by that response in a linear or other monotonic relation. For example, all things being equal, one might expect a student to allocate 60% of his time on an assignment that counts for 60% of his overall grade and 40% of his time on an assignment that counts for 40% of his grade. Larger reinforcers ($5) are generally more effective than smaller ones ($2). Reinforcement delivered immediately is more effective than delayed reinforcement. Finally, higher quality reinforcement is often more effective than lower quality reinforcement <ref type="bibr">(Fisher &amp; Mazur, 1997)</ref>.</p><p>When given a choice between larger, delayed and smaller, more immediate reinforcement, humans often choose the latter, even when the overall number of reinforcers earned is greater for consistently choosing the larger, delayed option. This laboratory arrangement in which the individual is required to choose between larger, delayed and smaller, immediate reinforcement is called the self-control choice situation and has direct relevance to children with disorders involving impulsive responding (e.g., attention deficit hyperactivity disorder; <ref type="bibr">Fisher &amp; Mazur, 1997)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Applications of Behavior Analysis</head><p>Important environmental events that can be applied to influence behavior include (a) the context in which the behavior occurs (e.g., teenagers behave differently with parents than with peers), (b) motivational factors (e.g., searching for a restaurant is more likely if one has not eaten), (c) antecedents that signal which responses will be successful (e.g., proceeding if the traffic light is green), and (d) the consequences of responses that influence whether they will reoccur in the future (e.g., studying tends to be repeated if it produces a better grade). These basic principles of operant theory have led to the development of a set of scientifically validated treatment procedures that are routinely incorporated into treatments based on ABA. Important elements of treatment development include (a) operationally defining and continuously measuring target behaviors; (b) increasing motivation through differential delivery of empirically derived reinforcement; (c) providing clear and direct instructions; (d) identifying, delivering, and fading effective prompts; (e) reinforcing successive approximations of target behaviors (i.e., shaping); (f) chaining simple responses into more complex behaviors; and (g) using explicit methods to promote generalization and maintenance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Behavioral Assessment</head><p>The most important advancement in the history of ABA has been the development of procedures to assess "why" behavior occurs, referred to as functional analysis. Functional analysis involves the identification of environmental variables that influence behavior. Iwata and colleagues <ref type="bibr" target="#b3">(Iwata, Dorsey, Slifer, Bauman, &amp; Richman, 1994</ref>; see also <ref type="bibr" target="#b1">Betz &amp; Fisher, 2011)</ref> outlined the procedures for a well-defined and rigorous method for identifying the function(s) of problem behavior in 1982. This assessment systematically tests whether and to what extent problem behavior is maintained by (a) positive reinforcement in the form of contingent attention, (b) negative reinforcement in the form of escape from nonpreferred tasks, and/or (c) automatic reinforcement (the sensory stimulation resulting from the response). More importantly, the results can be used to prescribe effective treatment for problem behavior. Results from epidemiological studies and meta-analyses indicate that functional analysis-based intervention typically reduces problem behavior by 90% or more, and function-based treatments are more effective than treatments not based on functional analysis. Investigators have refined and adapted functional analysis procedures for a wide variety of behavior problems, as well as varied and idiosyncratic behavioral functions <ref type="bibr" target="#b1">(Betz &amp; Fisher, 2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Function-Based Treatment</head><p>The results of a functional analysis identify the environmental contexts in which problem behavior is likely (and unlikely) and the consequences that reinforce the behavior in those contexts. Applied behavior analysts use this information to develop effective interventions. For example, when a functional analysis indicates that problem behavior is reinforced by contingent attention, discontinuing attention for problem behavior and providing attention for an appropriate communication response (i.e., functional communication training <ref type="bibr">[FCT]</ref>) often produce rapid reductions in problem behavior <ref type="bibr" target="#b2">(Fisher &amp; Bouxsein, 2011)</ref>. Alternatively, the ABA therapist could discontinue attention for problem behavior and deliver attention on a time-based schedule, a procedure called noncontingent reinforcement (NCR; <ref type="bibr" target="#b2">Fisher &amp; Bouxsein, 2011)</ref>.</p><p>Both FCT and NCR are effective when problem behavior is maintained by socially mediated reinforcers (e.g., attention, and escape from nonpreferred tasks), but NCR is typically the preferred intervention for problem behavior maintained by automatic reinforcement (e.g., sensory reinforcement). Automatically reinforced problem behavior can be particularly difficult to treat because other people are not involved in the delivery of the reinforcing consequence, which makes it difficult or impossible to discontinue reinforcement.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SEE ALSO:</head><p>Behavior Therapies; Behavioral <ref type="bibr">Assessment;</ref><ref type="bibr">Behaviorism and Eliminativism;</ref><ref type="bibr">Single-Case Experimental Designs;</ref><ref type="bibr">Skinner, B. F. (1904-90)</ref> </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>10.1002/9781118625392.wbecp205, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781118625392.wbecp205 by Jessics Bermudez -Cochrane Colombia , Wiley Online Library on [11/07/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</figDesc><table /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head></head><label></label><figDesc>10.1002/9781118625392.wbecp205, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781118625392.wbecp205 by Jessics Bermudez -Cochrane Colombia , Wiley Online Library on [11/07/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</figDesc><table /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0">The Encyclopedia of Clinical Psychology, First Edition. Edited by Robin L. Cautin and Scott O. Lilienfeld. © 2015 John Wiley &amp; Sons, Inc. Published 2015 by John Wiley &amp; Sons, Inc. DOI: 10.1002/9781118625392.wbecp205</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="10" xml:id="foot_1">.1002/9781118625392.wbecp205, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/9781118625392.wbecp205 by Jessics Bermudez -Cochrane Colombia , Wiley Online Library on [11/07/2023]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Some current dimensions of applied behavior analysis</title>
+		<author>
+			<persName><forename type="first">References</forename><surname>Baer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wolf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Risley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename></persName>
+		</author>
+		<idno type="DOI">10.1901/jaba.1968.1-91</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="91" to="97" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Marketing behavior analysis requires (really) different talk: A critique of Kohn (2005) and a(nother) call to arms</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Betz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bourret</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Vollmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Rapp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of applied behavior analysis</title>
+				<editor>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Doughty</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Holloway</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Shields</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Kennedy</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York; New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Behavior and Social Issues</publisher>
+			<date type="published" when="2004">2011. 2004. 2011. 2012</date>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="115" to="134" />
+		</imprint>
+	</monogr>
+	<note>Functional analysis: History and methods</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bouxsein</surname></persName>
+		</author>
+		<idno type="DOI">10.1901/JABA.1997.30-387</idno>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="387" to="410" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Toward a functional analysis of self-injury</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Iwata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Dorsey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Slifer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Bauman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Richman</surname></persName>
+		</author>
+		<idno type="DOI">10.1901/JABA.1994.27-197</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="197" to="209" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Unconditional parenting: Moving from rewards and punishments to love and reason</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Lerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Iwata</surname></persName>
+		</author>
+		<idno type="DOI">10.1901/JABA.1995.28-93</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="93" to="94" />
+			<date type="published" when="1995">2005. 1995</date>
+			<publisher>Atria Books</publisher>
+		</imprint>
+	</monogr>
+	<note>Prevalence of the extinction burst and its attenuation during treatment</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The history of behavior analysis: Some historiography and a bibliography</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Morris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Todd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">D</forename><surname>Midgley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Behavior Analyst</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="131" to="158" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">The behavior of organisms</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">P</forename><surname>Pavlov</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1927">1927. 1938</date>
+			<publisher>Copley</publisher>
+			<pubPlace>London; Skinner, B. F.; Acton, MA</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Conditioned reflexes</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Conditioned emotional reactions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rayner</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/H0069608</idno>
+		<idno>11/07/2023</idno>
+		<ptr target="https://onlinelibrary.wiley.com/terms-and-conditions" />
+	</analytic>
+	<monogr>
+		<title level="m">See the Terms and Conditions</title>
+				<editor>
+			<persName><forename type="first">Jessics</forename><surname>Bermudez -Cochrane Colombia</surname></persName>
+		</editor>
+		<meeting><address><addrLine>NY</addrLine></address></meeting>
+		<imprint>
+			<publisher>on Wiley Online Library for rules of use</publisher>
+			<date type="published" when="1920">1920</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="1" to="14" />
+		</imprint>
+	</monogr>
+	<note>Wiley Online Library. OA articles are governed by the applicable Creative Commons License</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

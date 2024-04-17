@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">MOTIVATING OPERATIONS AND TERMS TO DESCRIBE THEM: SOME FURTHER REFINEMENTS</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Sean</forename><surname>Laraway</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">WESTERN MICHIGAN UNIVERSITY</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Susan</forename><surname>Snycerski</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">WESTERN MICHIGAN UNIVERSITY</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>AND</roleName><forename type="first">Jack</forename><surname>Michael</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">WESTERN MICHIGAN UNIVERSITY</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alan</forename><surname>Poling</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">WESTERN MICHIGAN UNIVERSITY</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">MOTIVATING OPERATIONS AND TERMS TO DESCRIBE THEM: SOME FURTHER REFINEMENTS</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">3880B772653F5EEE42E1E7BFE68AA293</idno>
+					<idno type="DOI">10.1901/jaba.2003.36-407</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.7.2" ident="GROBID" when="2024-04-14T19:43+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>DESCRIPTORS: motivation</term>
+					<term>establishing operations</term>
+					<term>abolishing operations</term>
+					<term>motivating operations</term>
+					<term>behavior-analytic terminology</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Over the past decade, behavior analysts have increasingly used the term establishing operation (EO) to refer to environmental events that influence the behavioral effects of operant consequences. Nonetheless, some elements of current terminology regarding EOs may interfere with applied behavior analysts' efforts to predict, control, describe, and understand behavior. The present paper (a) describes how the current conceptualization of the EO is in need of revision, (b) suggests alternative terms, including the generic term motivating operation (MO), and (c) provides examples of MOs and their behavioral effects using articles from the applied behavior analysis literature.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The term establishing operation (EO), originally used by <ref type="bibr" target="#b26">Keller and Schoenfeld (1950)</ref> and then by <ref type="bibr" target="#b42">Millenson (1967)</ref> to denote motivating events, has been revived and reformulated in a series of papers by <ref type="bibr">Michael (e.g., 1982</ref><ref type="bibr">Michael (e.g., , 1983</ref><ref type="bibr">Michael (e.g., , 1988</ref><ref type="bibr">Michael (e.g., , 1993a</ref><ref type="bibr">Michael (e.g., , 1993b</ref><ref type="bibr">Michael (e.g., , 2000))</ref>. Michael defined EOs as environmental events, operations, or stimulus conditions that affect an organism's behavior by altering (a) the reinforcing or punishing effectiveness of other environmental events and (b) the frequency of occurrence of that part of the organism's repertoire relevant to those events as consequences. Michael termed the first effect the reinforcer-establishing effect and the second effect the evocative effect. Unconditioned establishing operations (UEOs) do not require a learning history to change the effectiveness of consequences. In contrast, conditioned establishing operations (CEOs) acquire their motivating function as a result of a particular learning history. Michael</p><p>We thank Robert Stromer and four anonymous reviewers for their very helpful comments on a previous version of this paper.</p><p>Correspondence concerning this article should be addressed to Alan Poling, Department of Psychology, Western Michigan University, Kalamazoo, Michigan 49008. <ref type="bibr">(1993a, 1993b)</ref> further identified three types of learned EOs, which he termed the surrogate CEO, the reflexive CEO, and the transitive CEO. These CEO subtypes are discussed in detail elsewhere (e.g., <ref type="bibr" target="#b31">McGill, 1999;</ref><ref type="bibr" target="#b35">Michael, 1982</ref><ref type="bibr" target="#b38">Michael, , 1993a</ref><ref type="bibr" target="#b39">Michael, , 1993b</ref><ref type="bibr" target="#b40">Michael, , 2000;;</ref><ref type="bibr" target="#b44">Olson, Laraway, &amp; Austin, 2001)</ref> and will not be reviewed here. Since Michael's early articles on the topic appeared (i.e., <ref type="bibr" target="#b35">Michael, 1982</ref><ref type="bibr" target="#b36">Michael, , 1983))</ref>, behavior analysts have increasingly recognized the importance of EOs and have generally adopted Michael's terminology with respect to them. From 1990 to 1999, the cumulative number of articles in the Journal of Applied Behavior Analysis (JABA) that used the term establishing operation rose from three to over 60. Moreover, citations of <ref type="bibr" target="#b35">Michael's 1982 and</ref><ref type="bibr" target="#b39">1993b</ref> articles on the EO have increased in number every year since their publication <ref type="bibr" target="#b24">(Iwata, Smith, &amp; Michael, 2000)</ref>. In fact, Michael's 1982 article, first published in the Journal of the Experimental Analysis of Behavior (JEAB), is now the JEAB article most frequently cited in JABA <ref type="bibr" target="#b12">(Elliot, Fuqua, Ehrhardt, &amp; Poling, 2003)</ref>. Recent issues of JABA <ref type="bibr">(Vol. 33,</ref><ref type="bibr">No. 4</ref>) and the Journal of <ref type="bibr">Organizational Behavior Management (Vol. 21,</ref><ref type="bibr">No.</ref> 2) contained sections dedicat-ed to the EO. The EO concept has also been discussed in several other publications (e.g., <ref type="bibr" target="#b0">Agnew, 1998;</ref><ref type="bibr" target="#b4">Biglan, 1995;</ref><ref type="bibr">Blakely &amp; Schlinger, 1987;</ref><ref type="bibr" target="#b6">Chase &amp; Hyten, 1985;</ref><ref type="bibr" target="#b11">Dougher &amp; Hackbert, 2000;</ref><ref type="bibr" target="#b18">Guerin, 1994;</ref><ref type="bibr" target="#b20">Hall &amp; Sundberg, 1987;</ref><ref type="bibr" target="#b27">Klatt &amp; Morris, 2001;</ref><ref type="bibr" target="#b28">Lamarre &amp; Holland, 1985;</ref><ref type="bibr" target="#b30">Lohrmann-O'Rourke &amp; Yurman, 2001;</ref><ref type="bibr" target="#b45">Poling, 1986;</ref><ref type="bibr">Poling &amp; Byrne, 2000;</ref><ref type="bibr">Schlinger &amp; Blakely, 1987;</ref><ref type="bibr" target="#b49">Schlinger &amp; Poling, 1998;</ref><ref type="bibr" target="#b51">Sigafoos, 1999;</ref><ref type="bibr" target="#b55">Wilder &amp; Carr, 1998)</ref>. The EO concept has even appeared in non-English-language journals. For example, da <ref type="bibr" target="#b9">Cunha (1995)</ref> and <ref type="bibr" target="#b41">Miguel (2000)</ref> translated the EO concept into Portuguese. In short, the EO concept has thus become the foremost behavior-analytic approach to motivation, and behavior analysts who work in a variety of applied settings have increasingly used the concept in their analyses and interventions. Interestingly, the EO concept has not received much attention in the basic literature (for exceptions, see <ref type="bibr" target="#b1">Ailing, 1991;</ref><ref type="bibr" target="#b8">da Cunha, 1993;</ref><ref type="bibr" target="#b21">Hixson, 1995;</ref><ref type="bibr" target="#b32">McPherson &amp; Osborne, 1986</ref><ref type="bibr" target="#b37">, 1988)</ref>.</p><p>The EO concept has provided behavior analysts with a useful way to describe an important class of operant controlling variables. Nevertheless, some elements of current EO terminology may interfere with applied behavior analysts' efforts to predict, control, describe, and understand behavior. One purpose of the present paper is to consider how certain terms historically used in discussions of EOs do not precisely describe the behavioral effects of motivating events. A second purpose is to provide, when necessary, alternative terms, including the omnibus term, motivating operation (MO). A third purpose is to describe MOs and their behavioral effects using examples relevant to applied behavior analysts. Although the issues discussed herein are pertinent to the general behavior-analytic community, we believe that refinements in the EO concept is of particular interest to the readers of JABA. Put sim-ply, most research on the EO has been published in JABA. Given the recent increase in interest in the EO concept demonstrated by applied behavior analysts, JABA readers seem to be the natural audience for the changes in EO concept proposed in this paper. In addition, we believe that the MO concept presented herein will improve the analysis and treatment of behavior in applied settings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Not All Motivating Events Are Establishing Operations</head><p>One possible limitation of current terminology stems from using establishing operation as an omnibus term for all operations that have motivational effects. The term establishing implies only an increase in the effectiveness of a consequence as a reinforcer or punisher, yet many motivating variables decrease the effectiveness of consequences. For example, researchers have found that time-based presentation of attention (as in so-called noncontingent reinforcement procedures) reduced the reinforcing effectiveness of attention (e.g., <ref type="bibr" target="#b3">Berg et al., 2000;</ref><ref type="bibr" target="#b14">Fischer, Iwata, &amp; Worsdell, 1997)</ref>, although time-based schedules likely have other behavioral effects as well. Similarly, <ref type="bibr" target="#b43">Northup, Fusilier, Swanson, Roane, and Borrero (1997)</ref> found that, in some participants, the stimulant drug methylphenidate decreased the reinforcing effectiveness of coupons exchangeable for edible items. This effect is consistent with the decrease in food consumption generally produced by stimulant drugs <ref type="bibr" target="#b25">(Julien, 2001)</ref>. Using current terminology, the interventions used in these studies would be termed EOs, even though they reduced the effectiveness of the reinforcers involved. <ref type="bibr" target="#b35">Michael (1982</ref><ref type="bibr" target="#b36">Michael ( , 1983</ref><ref type="bibr" target="#b39">Michael ( , 1993b) )</ref> recognized the problem of using establishing operation as an omnibus term but stated that it was inconvenient to introduce the complementary term abolishing operation (AO; see also <ref type="bibr">Mc-Gill, 1999, p. 394)</ref>. Instead, <ref type="bibr" target="#b35">Michael (1982)</ref> suggested that '' 'establishing' should be taken to be short for 'establishing or abolishing' '' (p. 151). In practice, using the same term to refer to events that either increase or decrease the effectiveness of consequences seems illogical and may lead behavior analysts to neglect operations with abolishing effects <ref type="bibr" target="#b46">(Poling, 2001)</ref>. Hence, behavior analysts should consider using AO to refer to any event that decreases the effectiveness of a given consequence, EO to refer to any event that increases the effectiveness of a given consequence, and MO as an omnibus term that subsumes both AOs and EOs. This suggested terminology will be used throughout the remainder of this paper.</p><p>Using the new terminology, time-based presentations of attention <ref type="bibr" target="#b14">Fischer, Iwata, and Worsdell (1997)</ref> and <ref type="bibr" target="#b3">Berg et al. (2000)</ref> could be considered AOs for attention, as would methylphenidate (with respect to coupons exchangeable for edible items) in <ref type="bibr" target="#b43">Northup et al. (1997)</ref>. As these studies demonstrate, AOs play an important role in applied behavior analysis, and treatments for aberrant behavior sometimes involve AO manipulations (e.g., <ref type="bibr" target="#b13">Fischer, Iwata, &amp; Mazaleski, 1997;</ref><ref type="bibr" target="#b19">Hagopian, Fisher, &amp; Legacy, 1994;</ref><ref type="bibr" target="#b54">Vollmer, Marcus, &amp; Ringdahl, 1995)</ref>. For example, many pharmacotherapies for drug abuse function as AOs for drug reinforcers (see <ref type="bibr" target="#b50">Schuster, 1986)</ref>. As a case in point, research with humans has demonstrated that the opiate drug buprenorphine (Subutex) reduces the reinforcing effectiveness of other opiate agonists (e.g., morphine, heroin) by producing subjective effects similar to opiate agonists and by blocking the subjective effects of opiate drugs administered concurrently <ref type="bibr" target="#b34">(Mello, Mendelson, &amp; Kuehnle, 1982)</ref>. <ref type="bibr">Mello et al.</ref> found that, relative to placebo, buprenorphine reduced male heroin users' choices for heroin at doses that did not affect choices for money. Because of the drug's AO effects, the Food and Drug Administration (2002) recently approved buprenorphine as a treatment for opiate dependence. The terminology suggested in this paper explicitly describes the AO functions of time-based schedules, methylphenidate, and buprenorphine, whereas the current terminology does not.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MOs May Affect Multiple Behaviors</head><p>The results of basic and applied research support the judgment that a given stimulus can have multiple behavioral functions (e.g., <ref type="bibr" target="#b37">Michael, 1988)</ref>. In attempts to identify a behavior's controlling variables, applied behavior analysts should be aware that a given MO is likely to affect many behaviors and a given behavior is likely to be affected by many MOs <ref type="bibr" target="#b46">(Poling, 2001)</ref>. In <ref type="bibr" target="#b43">Northup et al. (1997)</ref>, methylphenidate functioned as an AO for food-related coupons and as an EO for coupons related to activity reinforcers. <ref type="bibr" target="#b22">Horner, Day, and Day (1997)</ref> examined the motivating effects of neutralizing routines on problem behaviors exhibited by boys with developmental disabilities. They found that various events, such as delaying a planned activity or sleep deprivation, could have multiple motivating functions. In 1 participant, sleep deprivation reduced the value of staff praise as a reinforcer (i.e., it functioned as an AO for praise) and increased the value of immediate access to edible items as a reinforcer (i.e., it functioned as an EO for edible items). <ref type="bibr" target="#b43">Northup et al. (1997)</ref> and <ref type="bibr" target="#b22">Horner et al. (1997)</ref> demonstrated that MOs can have multiple, and sometimes simultaneous, motivating effects. Thus, treatments that involve MO manipulations may change alternative behaviors in addition to target behaviors. Using a relatively dense time-based schedule, <ref type="bibr" target="#b17">Goh, Iwata, and DeLeon (2000)</ref> delivered reinforcers that maintained self-injurious behavior while they concurrently attempted to train appropriate alternative behaviors, specifically mands, using the same reinforcers. The time-based schedule reduced the rate of self-injurious behavior but also interfered with the acquisition of mands, and this schedule appears to have functioned as an AO for the reinforcers, thereby preventing them from strengthening mands.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MOs Influence Punishers, Too</head><p>To date, most discussions of MOs have focused on EOs for reinforcement, although MOs also include EOs and AOs for punishment. As with reinforcing events, the capacity of events to function as punishers depends on MOs. Specific examples of such MOs are rare in the applied literature, because most applied studies of MOs have focused on MOs for reinforcement. Nevertheless, some common behavioral interventions that involve punishing consequences rely on MOs for their effectiveness. Consider, for example, a study by <ref type="bibr" target="#b16">Foxx and Shapiro (1978)</ref>. These researchers investigated the effects of the time-out ribbon, a form of nonexclusionary time-out, on the misbehavior of boys with mental retardation. Boys were given different-colored ribbons to wear. As long as a boy behaved appropriately, he was allowed to continue wearing his ribbon, which signaled that reinforcers, such as edible items, were available for his good behavior. If a boy behaved inappropriately, he temporarily lost his ribbon and could not earn reinforcers for 3 min and until he stopped misbehaving.</p><p>The removal of the time-out ribbon substantially reduced the percentage of intervals in which misbehavior occurred. That is, removal of the time-out ribbon functioned as a punishing event. The capacity for ribbon loss to punish misbehavior was due to the ribbon's relation to currently effective reinforcers (e.g., edible items) that were available when the boys possessed the ribbon. If the ribbon did not signal that effective reinforcers were available, ribbon loss would not have reduced behavior. Indeed, <ref type="bibr" target="#b53">Solnick, Rincover, and Peterson (1977)</ref> found that for time-out to function as a punishing event, the time-in situation must provide a relatively high density of effective reinforcing events. Such events are effective as reinforcers because of the action of their relevant EOs (e.g., food deprivation for edible reinforcers). Thus, the EOs for the programmed reinforcers in time-in also established the punishing effectiveness of ribbon loss (i.e., functioned as EOs for ribbon loss as a punishing event) and abated misbehaviors that resulted in ribbon loss. Conversely, AOs that reduced the effectiveness of the programmed reinforcers (e.g., food satiation for edible items) would also reduce the punishing effectiveness of ribbon loss and increase the likelihood of misbehaviors that resulted in ribbon loss.</p><p>Other authors have noted that the punishing effectiveness of time-out depends on the effectiveness of reinforcers in time-in (e.g., <ref type="bibr">Alberto &amp; Troutman, 1990, p. 276;</ref><ref type="bibr">Cooper, Heron, &amp; Heward, 1987, p. 450)</ref>, and a similar principle operates in token economies that incorporate response-cost procedures. If the putative back-up reinforcers are not currently effective, loss of tokens (i.e., the loss of the opportunity to acquire the back-up ''reinforcers'') would not effectively control behavior. In commonsense terms, losing the opportunity to earn a consequence is only important if you currently ''want'' that consequence. Therefore, MOs that increase the reinforcing effectiveness of particular objects or events also increase the punishing effectiveness of making those objects or events unavailable (i.e., time-out) or of removing them (i.e., response cost). As this example illustrates, a single environmental event can have multiple and simultaneous motivating effects.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The Defining Effects of MOs</head><p>Another potential limitation of current terminology involves the names for the two effects that heretofore have defined MOs, that is, the reinforcer-establishing effect and the evocative effect. Whereas these two terms are often used to define the effects of all MOs, in fact, these terms actually name the specific behavioral effects of one subtype of MO, namely, one that establishes the reinforcing effectiveness of some event and evokes responses related to that event as a consequence. But, as stated previously, MOs can establish and abolish the effectiveness of reinforcers and punishers. To refer to both increases and decreases in the effectiveness of both reinforcers and punishers as reinforcerestablishing effects seems problematic.</p><p>Consider again the effect of time-based presentation of attention on the subsequent reinforcing effectiveness of attention. Under current terminology, this effect would be called a reinforcer-establishing effect, even though time-based attention abolished the effectiveness of attention as a reinforcer. Behavior analysts should consider using valuealtering effect to replace reinforcer-establishing effect as a generic description of a change in the effectiveness (i.e., value) of any operant consequence. Value-altering effects comprise the (a) reinforcer-establishing, (b) reinforcerabolishing, (c) punisher-establishing, and (d) punisher-abolishing effects of MOs. It should be noted that the effectiveness of consequences is sometimes a relatively continuous variable, with minimum, intermediate, and maximum values possible. Thus, EOs shift a consequence's effectiveness toward the maximally effective end of the continuum and AOs shift a consequence's effectiveness toward the minimally effective end of the continuum. In <ref type="bibr" target="#b14">Fischer, Iwata, and Worsdell (1997)</ref>, <ref type="bibr" target="#b3">Berg et al. (2000)</ref>, and <ref type="bibr" target="#b43">Northup et al. (1997)</ref>, presentation of noncontingent attention and administration of methylphenidate would be said to have reinforcer-abolishing effects.</p><p>With respect to the second generic effect of MOs (i.e., the evocative effect), one change merits consideration. Because MOs can increase or decrease responding, it seems imprecise to use evocative effect to refer to both kinds of changes. <ref type="bibr" target="#b36">Michael (1983)</ref> noted this imprecision:</p><p>The term [evoke] is somewhat unsatisfactory, however, in suggesting only an increase, since some of the relations that will be considered evocative involve decreases. Evocative or suppressive would actually be more accurate but also more cumbersome, so for now let us assign to evoke and evocative a bidirectional implication. (p. 19) Instead of using evocative effect in the bidirectional sense advocated by Michael, in the interest of accuracy, behavior analysts should consider using behavior-altering effect as a generic description of MOs' effects on behavior. We have suggested elsewhere <ref type="bibr">(Laraway, Snycerski, Michael, &amp; Poling, 2001</ref><ref type="bibr" target="#b15">/2002)</ref> that behavior analysts (a) use the verb evoke to describe an increase and the verb abate to describe a decrease in responding due to the action of antecedents and (b) denote the former an evocative effect and the latter an abative effect. EOs for reinforcers have evocative effects, as do AOs for punishers. AOs for reinforcers have abative effects, as do EOs for punishers. Thus, in <ref type="bibr" target="#b43">Northup et al. (1997)</ref> methylphenidate had an abative effect on responding maintained by coupons exchangeable for edible items, and in <ref type="bibr" target="#b34">Mello et al. (1982)</ref> buprenorphine had an abative effect on heroin self-administration.</p><p>A third effect of MOs mentioned by <ref type="bibr" target="#b38">Michael (1993a</ref><ref type="bibr" target="#b39">Michael ( , 1993b) )</ref> is that they modify the evocative effects of discriminative stimuli. MOs influence discriminative stimuli (a) by making reinforcement and punishment possible, thereby making discrimination training possible, and (b) by changing the control over behavior exerted by previously established discriminative stimuli. Discrimination training relies on the processes of differential reinforcement or punishment, which, of course, require effective consequences. Once a discriminative stimulus has been developed, the behavioral effects of that stimulus will be seen only when an MO is in effect. Thus, the behavior-altering effects of MOs may depend on the presence of relevant discriminative stimuli. This was demonstrated by <ref type="bibr" target="#b22">Horner et al. (1997)</ref>, who found that the probability of boys' engaging in a problem behavior was higher when an MO and a discriminative stimulus were presented together than when either of these antecedents were presented alone, in which case the probability of problem behavior remained at near zero. The behavior-altering effect of MOs, then, involves the direct effects of a given MO on behavior combined with the MO's effects on the ability of discriminative stimuli to control behavior <ref type="bibr" target="#b38">(Michael, 1993a</ref><ref type="bibr" target="#b39">(Michael, , 1993b))</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Summary of Motivating Operations and Their Effects</head><p>In sum, MOs have two defining effects. They alter (a) the effectiveness of reinforcers or punishers (the value-altering effect) and (b) the frequency of operant response classes related to those consequences (the behavioraltering effect). The value-altering effect, as a generic term, subsumes the following specific effects of MOs: (a) the reinforcer-establishing effect, (b) the reinforcer-abolishing effect, (c) the punisher-establishing effect, and (d) the punisher-abolishing effect. Based on the different value-altering effects, we can distinguish four MO subtypes: (a) EOs related to reinforcement, (b) AOs related to reinforcement, (c) EOs related to punishment, and (d) AOs related to punishment. Again, establishing operations make reinforcers and punishers more effective, and abolishing operations make reinforcers and punishers less effective. The behavior-altering effect, as a generic term, subsumes two effects of MOs: (a) the evocative effect and (b) the abative effect. The evocative effect represents an increase in responding, and the abative effect represents a decrease in responding. In many natural and laboratory (particularly free-operant) situations, researchers may have trouble disentangling the value-and behavior-altering effects of a given MO because consequences often occur while the MO functions effectively, thereby confounding the two effects. Pure behavior-altering effects can be seen most clearly in extinction or before the first occurrence of the relevant consequences <ref type="bibr" target="#b27">(Klatt &amp; Morris, 2001)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concluding Comments</head><p>In conclusion, behavior analysts' increasingly effective attempts to treat behavioral problems using the EO concept suggest that the general approach to motivation offered by Michael is a fruitful one (e.g., <ref type="bibr" target="#b3">Berg et al., 2000;</ref><ref type="bibr" target="#b13">Fischer, Iwata, &amp; Mazaleski, 1997;</ref><ref type="bibr" target="#b14">Fischer, Iwata, &amp; Worsdell, 1997;</ref><ref type="bibr" target="#b43">Northup et al., 1997;</ref><ref type="bibr">for reviews, see McGill, 1999;</ref><ref type="bibr" target="#b55">Wilder &amp; Carr, 1998</ref>; see also <ref type="bibr">Iwata &amp; Smith, 2000;</ref><ref type="bibr" target="#b52">Smith &amp; Iwata, 1997)</ref>. Nevertheless, current terminology associated with this approach needs further refinement. The expanded MO concept presented here makes a behavior-analytic approach to motivation more comprehensive by explicitly recognizing distinct motivating operations that previously have been underemphasized and by clarifying the effects of these controlling variables. Applied behavior analysts have only recently begun the serious study of the effects of antecedents on problem behavior. According to Smith and Iwata, a possible reason for this situation is the lack of a unifying conceptual system for interpreting the effects of antecedent events. It is our hope that the conceptual scheme presented in this article will prove useful in categorizing and making sense of one important class of antecedent variables, namely, those that influence the effectiveness of operant con-sequences and behavior controlled by those consequences.</p></div>		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The establishing operation in organizational behavior management</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Agnew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Organizational Behavior Management</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="7" to="19" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">The effects of a conditioned establishing operation on performance of a two-component chain. Unpublished doctoral dissertation</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ailing</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<pubPlace>Western Michigan University</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Applied behavior analysis for teachers</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Alberto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Troutman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Merrill</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The effects of presession exposure to attention on the results of assessments of attention as a reinforcer</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">K</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Peck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Wacker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Harding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mccomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Richman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="463" to="477" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Changing cultural practices: A contextualist framework for intervention research</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Biglan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<publisher>Context Press</publisher>
+			<pubPlace>Reno, NV</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Rules: Functionaltering contingency-specifying stimuli</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Blakely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schlinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Behavior Analyst</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="183" to="187" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A historical and pedagogic note on establishing operations</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">N</forename><surname>Chase</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hyten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Behavior Analyst</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="121" to="122" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Applied behavior analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Cooper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Heron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Heward</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Mac-Millan</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">An experimental demonstration of the transitive conditioned establishing operation with pigeons. Unpublished doctoral dissertation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Da Cunha</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>Western Michigan University</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Motivacao e analise do comportamento</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Da Cunha</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>Motivation and behavior analysis</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Temas em Psicologia</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="11" to="18" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Establishing operations, cognition, and emotion</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Dougher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hackbert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Behavior Analyst</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="11" to="24" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">The effects of editorial policy on the integration of basic and applied research: A crosscitation analysis</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Elliot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Fuqua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ehrhardt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Poling</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Manuscript submitted for publication</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Noncontigent delivery of arbitrary reinforcers as treatment for self-injurious behavior</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Iwata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Mazaleski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="335" to="338" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Attention as an establishing operation and as reinforcement during functional analyses</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Iwata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Worsdell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="335" to="338" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Subutex and Suboxone approved to treat opiate dependence. FDA Talk Paper T02-38</title>
+		<ptr target="http://www.fda.gov/bbs/topics/ANSWERS/2002/ANS01165.html" />
+		<imprint>
+			<date type="published" when="2002-10-08">2002, October 8. February 19, 2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The timeout ribbon: A nonexlusionary timeout procedure</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Foxx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Shapiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="125" to="136" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Competition between noncontingent and contingent reinforcement schedules during response acquisition</title>
+		<author>
+			<persName><forename type="first">H.-L</forename><surname>Goh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Iwata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">G</forename><surname>Deleon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="195" to="205" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Analyzing social behavior: Behavior analysis and the social sciences</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Guerin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Context Press</publisher>
+			<pubPlace>Reno, NV</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Schedule effects of noncontingent reinforcement on attention-maintained destructive behavior in identical quadruplets</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Hagopian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Legacy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="317" to="325" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Teaching mands by manipulating conditioned establishing operations. The Analysis of Verbal Behavior</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Sundberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="41" to="53" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">The development of a transitive conditioned establishing operation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Hixson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+		<respStmt>
+			<orgName>Western Michigan University</orgName>
+		</respStmt>
+	</monogr>
+	<note>Unpublished master&apos;s thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Using neutralizing routines to reduce problem behaviors</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Horner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Day</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Day</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="601" to="613" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Establishing operations in applied behavior analysis [Special section]</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Iwata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="401" to="514" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Current research on the influence of establishing operations on behavior in applied settings</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Iwata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Michael</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="411" to="418" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">A primer of drug action</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Julien</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Freeman</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Principles of psychology</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Keller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Schoenfeld</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1950">1950</date>
+			<publisher>Appleton-Century-Crofts</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The Premack principle, response deprivation, and establishing operations</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Klatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">K</forename><surname>Morris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Behavior Analyst</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="173" to="180" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The functional independence of mands and tacts</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lamarre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Holland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Experimental Analysis of Behavior</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="5" to="19" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">The abative effect: A new term to describe the action of antecedents that reduce operant responding. The Analysis of Verbal Behavior</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Laraway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Snycerski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Michael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Poling</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001/2002</date>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="101" to="104" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Naturalistic assessment of and intervention for mouthing behaviors influenced by establishing operations</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lohrmann-O'rourke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Yurman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Positive Behavior Interventions</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="19" to="27" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Establishing operations: Implications for the assessment, treatment, and prevention of problem behavior</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mcgill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="393" to="418" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title level="m" type="main">The emergence of establishing stimulus control. The Psychological Record</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mcpherson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Osborne</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="375" to="386" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Control of behavior by an establishing stimulus</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mcpherson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Osborne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Experimental Analysis of Behavior</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="213" to="227" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Buprenorphine effects on human heroin self-administration: An operant analysis</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">K</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Mendelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Kuehnle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Pharmacology and Experimental Therapeutics</title>
+		<imprint>
+			<biblScope unit="volume">223</biblScope>
+			<biblScope unit="page" from="30" to="39" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title level="m" type="main">Distinguishing between discriminative and motivating functions of stimuli</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Michael</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="149" to="155" />
+		</imprint>
+	</monogr>
+	<note>Journal of the Experimental Analysis of Behavior</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Evocative and repertoire-altering effects of an environmental event. The Analysis of Verbal Behavior</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Michael</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="19" to="21" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Establishing operations and the mand. The Analysis of Verbal Behavior</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Michael</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="3" to="9" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Concepts and principles of behavior analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Michael</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Society for the Advancement of Behavior Analysis</title>
+				<meeting><address><addrLine>Kalamazoo, MI</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1993">1993a</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Establishing operations. The Behavior Analyst</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Michael</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993b</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="191" to="206" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Implications and refinements of the establishing operation concept</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Michael</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="401" to="410" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">O conceito de operacao estabelecedora na analise do comportamento [The concept of establishing operation in behavior analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Miguel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Psicologia: Teoria e Pesquisa</title>
+				<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="259" to="267" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Principles of behavioral analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Millenson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1967">1967</date>
+			<publisher>Macmillan</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">An evaluation of methylphenidate as a potential establishing operation for some common classroom reinforcers</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Northup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Fusilier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Swanson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Roane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Borrero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="615" to="625" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Unconditioned and conditioned establishing operations in organizational behavior management</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Laraway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Austin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Organizational Behavior Management</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="7" to="35" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">A primer of human behavioral pharmacology</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Poling</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<publisher>Plenum</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Journal of Organizational Behavior Management</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Poling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Comments regarding Olson, Laraway, and Austin</title>
+				<imprint>
+			<date type="published" when="2001">2001. 2001</date>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="47" to="56" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">Introduction to behavioral pharmacology</title>
+		<editor>Poling, A., &amp; Byrne, T.</editor>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Context Press</publisher>
+			<pubPlace>Reno, NV</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Function-altering effects of contingency-specifying stimuli</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schlinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Blakely</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Behavior Analyst</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="41" to="45" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title level="m" type="main">Introduction to scientific psychology</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schlinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Poling</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Plenum</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Implications of laboratory research for the treatment of drug dependence</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Schuster</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Behavioral analysis of drug dependence</title>
+				<editor>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Goldberg</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">I</forename><forename type="middle">P</forename><surname>Stolerman</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Orlando, FL</addrLine></address></meeting>
+		<imprint>
+			<publisher>Academic Press</publisher>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="page" from="357" to="385" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Creating opportunities for augmentative and alternative communication: Strategies for involving people with developmental disabilities</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sigafoos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">AAC: Augmentative &amp; Alternative Communication</title>
+				<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="183" to="190" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Antecedent influences on behavior disorders</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Iwata</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="343" to="375" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Some determinants of the reinforcing and punishing effects of timeout</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Solnick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rincover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Peterson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="415" to="424" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Noncontingent escape as treatment for self-injurious behavior maintained by negative reinforcement</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Vollmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Marcus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Ringdahl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Behavior Analysis</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="15" to="26" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Recent advances in the modification of establishing operations to reduce aberrant behavior</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Wilder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Carr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Behavioral Interventions</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="43" to="59" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Action Editor</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
